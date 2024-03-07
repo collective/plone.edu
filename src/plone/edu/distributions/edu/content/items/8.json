@@ -1,24 +1,24 @@
 {
-    "@id": "/de-de/aktuelles",
+    "@id": "/de-de/studium",
     "@type": "Document",
-    "UID": "842ac75c5ffc4c95a9908b9a55c51755",
+    "UID": "e2e2de609d0f479fb99eded39a984960",
     "allow_discussion": false,
     "blocks": {
-        "3721abd6-3001-405a-adac-44d49a58d950": {
+        "1e5ce8be-6d80-4372-95e7-d1c9eaeaabb6": {
             "@type": "slate"
         },
-        "ecbf7e39-1765-437c-a2ca-638cc696f2c4": {
+        "7e33d91b-81c1-4f64-9da2-1ca5a5230999": {
             "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "ecbf7e39-1765-437c-a2ca-638cc696f2c4",
-            "3721abd6-3001-405a-adac-44d49a58d950"
+            "7e33d91b-81c1-4f64-9da2-1ca5a5230999",
+            "1e5ce8be-6d80-4372-95e7-d1c9eaeaabb6"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:44:42+00:00",
+    "created": "2024-03-07T10:36:04+00:00",
     "creators": [
         "admin"
     ],
@@ -26,7 +26,7 @@
     "effective": null,
     "exclude_from_nav": false,
     "expires": null,
-    "id": "aktuelles",
+    "id": "studium",
     "is_folderish": true,
     "language": "de-de",
     "layout": "document_view",
@@ -34,7 +34,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-07T10:44:42+00:00",
+    "modified": "2024-03-07T10:36:04+00:00",
     "parent": {
         "@id": "/de-de",
         "@type": "LRF",
@@ -51,7 +51,7 @@
     "review_state": "private",
     "rights": "",
     "subjects": [],
-    "title": "Aktuelles",
+    "title": "Studium",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -61,7 +61,7 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:44:42+00:00"
+                "time": "2024-03-07T10:36:04+00:00"
             }
         ]
     },

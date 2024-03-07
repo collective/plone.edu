@@ -1,7 +1,7 @@
 {
-    "@id": "/de-de",
-    "@type": "LRF",
-    "UID": "ec493988d486407092f445b56be52c26",
+    "@id": "/de-de/assets",
+    "@type": "LIF",
+    "UID": "555a614221fb45329c08a0c0f6ea2452",
     "allow_discussion": false,
     "contributors": [],
     "created": "2024-03-07T10:35:17+00:00",
@@ -9,28 +9,31 @@
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-07T11:45:10",
+    "effective": null,
     "exclude_from_nav": true,
     "expires": null,
-    "id": "de-de",
+    "id": "assets",
     "is_folderish": true,
     "language": "de-de",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-07T10:45:10+00:00",
+    "modified": "2024-03-07T10:35:17+00:00",
     "parent": {
-        "@id": "/",
-        "@type": "Plone Site",
-        "UID": "abe2d8fa5c2d4cc684fcd4ba9e9adbe1",
-        "description": "A Plone Site",
-        "title": "STUDIUM",
-        "type_title": "Website"
+        "@id": "/de-de",
+        "@type": "LRF",
+        "UID": "ec493988d486407092f445b56be52c26",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "private",
+        "title": "Deutsch (Deutschland)",
+        "type_title": "Basisordner einer Sprache"
     },
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Deutsch (Deutschland)",
-    "type_title": "Basisordner einer Sprache",
+    "title": "Assets",
+    "type_title": "Sprachunabh\u00e4ngiger Ordner",
     "version": "current",
     "workflow_history": {
         "simple_publication_workflow": [
@@ -47,13 +50,6 @@
                 "comments": "",
                 "review_state": "published",
                 "time": "2024-03-07T10:35:17+00:00"
-            },
-            {
-                "action": "reject",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-07T10:45:10+00:00"
             }
         ]
     },

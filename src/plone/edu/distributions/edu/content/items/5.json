@@ -1,24 +1,40 @@
 {
-    "@id": "/de-de/aktuelles",
+    "@id": "/de-de/forschung",
     "@type": "Document",
-    "UID": "842ac75c5ffc4c95a9908b9a55c51755",
+    "UID": "add5d876f3ea4d23a2a365b9668d7996",
     "allow_discussion": false,
     "blocks": {
-        "3721abd6-3001-405a-adac-44d49a58d950": {
-            "@type": "slate"
-        },
-        "ecbf7e39-1765-437c-a2ca-638cc696f2c4": {
+        "3f3ea6ea-b20c-4560-99d5-6154b8fb8224": {
             "@type": "title"
+        },
+        "500e0978-07a9-48e9-bf8e-d1220c940c49": {
+            "@type": "slate",
+            "plaintext": "",
+            "styles": {},
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
+        },
+        "de502fad-faf5-4598-93c1-41fed9cdb2f1": {
+            "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "ecbf7e39-1765-437c-a2ca-638cc696f2c4",
-            "3721abd6-3001-405a-adac-44d49a58d950"
+            "3f3ea6ea-b20c-4560-99d5-6154b8fb8224",
+            "500e0978-07a9-48e9-bf8e-d1220c940c49",
+            "de502fad-faf5-4598-93c1-41fed9cdb2f1"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:44:42+00:00",
+    "created": "2024-03-07T10:43:58+00:00",
     "creators": [
         "admin"
     ],
@@ -26,7 +42,7 @@
     "effective": null,
     "exclude_from_nav": false,
     "expires": null,
-    "id": "aktuelles",
+    "id": "forschung",
     "is_folderish": true,
     "language": "de-de",
     "layout": "document_view",
@@ -34,7 +50,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-07T10:44:42+00:00",
+    "modified": "2024-03-07T10:43:58+00:00",
     "parent": {
         "@id": "/de-de",
         "@type": "LRF",
@@ -51,7 +67,7 @@
     "review_state": "private",
     "rights": "",
     "subjects": [],
-    "title": "Aktuelles",
+    "title": "Forschung",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -61,7 +77,7 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:44:42+00:00"
+                "time": "2024-03-07T10:43:58+00:00"
             }
         ]
     },
