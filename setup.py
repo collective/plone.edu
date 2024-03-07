@@ -1,7 +1,9 @@
 """Installer for the plone.edu package."""
-from pathlib import Path
 
-from setuptools import find_packages, setup
+from pathlib import Path
+from setuptools import find_packages
+from setuptools import setup
+
 
 long_description = f"""
 {Path("README.md").read_text()}\n
@@ -51,7 +53,9 @@ setup(
         "setuptools",
         "Plone",
         "plone.distribution>=1.0.0b2",
+        "plone.restapi",
         "plone.api",
+        "zope.i18nmessageid",
         "collective.person",
     ],
     extras_require={
@@ -59,6 +63,8 @@ setup(
             "zest.releaser[recommended]",
             "zestreleaser.towncrier",
             "plone.app.testing",
+            "plone.testing",
+            "plone.testing",
             "plone.restapi[test]",
             "pytest",
             "pytest-cov",
