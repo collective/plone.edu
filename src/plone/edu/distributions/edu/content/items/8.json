@@ -37,6 +37,13 @@
             ]
         }
     },
+    "blocks_layout": {
+        "items": [
+            "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
+            "aad6de27-6178-4b09-b19a-56ad8c5829e4",
+            "2444e746-f496-4c3e-a3c7-f6eea28cad16"
+        ]
+    },
     "changeNote": "",
     "contact_email": null,
     "contact_phone": null,
@@ -68,7 +75,7 @@
         "image_field": null,
         "image_scales": null,
         "review_state": "private",
-        "title": "Personen",
+        "title": "Organisation",
         "type_title": "Seite"
     },
     "review_state": "private",

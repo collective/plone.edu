@@ -54,15 +54,15 @@
     "effective": null,
     "exclude_from_nav": false,
     "expires": null,
-    "id": "organisation",
+    "id": "personen",
     "is_folderish": true,
-    "language": "de-de",
+    "language": "de",
     "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-07T12:10:38+00:00",
+    "modified": "2024-03-07T15:17:30+00:00",
     "parent": {
         "@id": "/de",
         "@type": "LRF",

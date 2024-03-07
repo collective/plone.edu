@@ -3,6 +3,10 @@
     "@type": "LRF",
     "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
     "allow_discussion": false,
+    "blocks": {},
+    "blocks_layout": {
+        "items": []
+    },
     "contributors": [],
     "created": "2024-03-07T10:39:59+00:00",
     "creators": [
@@ -14,14 +18,14 @@
     "expires": null,
     "id": "en",
     "is_folderish": true,
-    "language": "en",
+    "language": "de",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-07T10:39:59+00:00",
+    "modified": "2024-03-07T15:17:30+00:00",
     "parent": {
         "@id": "/",
         "@type": "Plone Site",
-        "UID": "351f11bfee714b0794fad5f9ff8c8327",
+        "UID": "2a0a4a5908c640b59bcad47eb9af7411",
         "description": "A Plone Site",
         "title": "Site",
         "type_title": "Website"
