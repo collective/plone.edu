@@ -4,6 +4,7 @@
     "plone.app.caching:default",
     "plone.restapi:default",
     "plone.volto:default",
+    "collective.person:default",
     "plonetheme.barceloneta:default"
   ],
   "content": []

@@ -1,8 +1,7 @@
 """Installer for the plone.edu package."""
 from pathlib import Path
-from setuptools import find_packages
-from setuptools import setup
 
+from setuptools import find_packages, setup
 
 long_description = f"""
 {Path("README.md").read_text()}\n
@@ -53,6 +52,7 @@ setup(
         "Plone",
         "plone.distribution>=1.0.0b2",
         "plone.api",
+        "collective.person",
     ],
     extras_require={
         "test": [
