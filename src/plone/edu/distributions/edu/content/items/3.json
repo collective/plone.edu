@@ -1,58 +1,39 @@
 {
-    "@id": "/de-de/aktuelles",
-    "@type": "Document",
-    "UID": "842ac75c5ffc4c95a9908b9a55c51755",
+    "@id": "/de/assets",
+    "@type": "LIF",
+    "UID": "5ba9ee6b488142a1a5ffc4ba18546f5f",
     "allow_discussion": false,
-    "blocks": {
-        "3721abd6-3001-405a-adac-44d49a58d950": {
-            "@type": "slate"
-        },
-        "ecbf7e39-1765-437c-a2ca-638cc696f2c4": {
-            "@type": "title"
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "ecbf7e39-1765-437c-a2ca-638cc696f2c4",
-            "3721abd6-3001-405a-adac-44d49a58d950"
-        ]
-    },
     "contributors": [],
-    "created": "2024-03-07T10:44:42+00:00",
+    "created": "2024-03-07T10:39:59+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
     "effective": null,
-    "exclude_from_nav": false,
+    "exclude_from_nav": true,
     "expires": null,
-    "id": "aktuelles",
+    "id": "assets",
     "is_folderish": true,
-    "language": "de-de",
-    "layout": "document_view",
-    "lock": {
-        "locked": false,
-        "stealable": true
-    },
-    "modified": "2024-03-07T10:44:42+00:00",
+    "language": "de",
+    "layout": "folder_listing",
+    "lock": {},
+    "modified": "2024-03-07T10:39:59+00:00",
     "parent": {
-        "@id": "/de-de",
+        "@id": "/de",
         "@type": "LRF",
-        "UID": "ec493988d486407092f445b56be52c26",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
         "description": "",
         "image_field": null,
         "image_scales": null,
-        "review_state": "private",
-        "title": "Deutsch (Deutschland)",
+        "review_state": "published",
+        "title": "Deutsch",
         "type_title": "Basisordner einer Sprache"
     },
-    "preview_caption": null,
-    "preview_image": null,
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Aktuelles",
-    "type_title": "Seite",
+    "title": "Assets",
+    "type_title": "Sprachunabh\u00e4ngiger Ordner",
     "version": "current",
     "workflow_history": {
         "simple_publication_workflow": [
@@ -61,7 +42,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:44:42+00:00"
+                "time": "2024-03-07T10:39:59+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-07T10:39:59+00:00"
             }
         ]
     },

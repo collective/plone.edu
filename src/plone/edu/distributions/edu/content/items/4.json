@@ -1,39 +1,58 @@
 {
-    "@id": "/de-de/assets",
-    "@type": "LIF",
-    "UID": "555a614221fb45329c08a0c0f6ea2452",
+    "@id": "/de/forschung",
+    "@type": "Document",
+    "UID": "1dcc02e3985a4c388360236bbbcd0e1d",
     "allow_discussion": false,
+    "blocks": {
+        "96e989e0-f666-4741-ad60-3ada5bc55ff5": {
+            "@type": "slate"
+        },
+        "ce61133d-c25f-47e6-9a6b-5a374df57cd2": {
+            "@type": "title"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "ce61133d-c25f-47e6-9a6b-5a374df57cd2",
+            "96e989e0-f666-4741-ad60-3ada5bc55ff5"
+        ]
+    },
     "contributors": [],
-    "created": "2024-03-07T10:35:17+00:00",
+    "created": "2024-03-07T10:41:55+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
     "effective": null,
-    "exclude_from_nav": true,
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "assets",
+    "id": "forschung",
     "is_folderish": true,
-    "language": "de-de",
-    "layout": "folder_listing",
-    "lock": {},
-    "modified": "2024-03-07T10:35:17+00:00",
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-07T10:42:20+00:00",
     "parent": {
-        "@id": "/de-de",
+        "@id": "/de",
         "@type": "LRF",
-        "UID": "ec493988d486407092f445b56be52c26",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
         "description": "",
         "image_field": null,
         "image_scales": null,
-        "review_state": "private",
-        "title": "Deutsch (Deutschland)",
+        "review_state": "published",
+        "title": "Deutsch",
         "type_title": "Basisordner einer Sprache"
     },
-    "review_state": "published",
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "private",
     "rights": "",
     "subjects": [],
-    "title": "Assets",
-    "type_title": "Sprachunabh\u00e4ngiger Ordner",
+    "title": "Forschung",
+    "type_title": "Seite",
     "version": "current",
     "workflow_history": {
         "simple_publication_workflow": [
@@ -42,14 +61,7 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:35:17+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-07T10:35:17+00:00"
+                "time": "2024-03-07T10:41:55+00:00"
             }
         ]
     },

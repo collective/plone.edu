@@ -1,40 +1,24 @@
 {
-    "@id": "/de-de/forschung",
+    "@id": "/de/internationales",
     "@type": "Document",
-    "UID": "add5d876f3ea4d23a2a365b9668d7996",
+    "UID": "3b1413db8c364d4a95ba0b408a2cc9dd",
     "allow_discussion": false,
     "blocks": {
-        "3f3ea6ea-b20c-4560-99d5-6154b8fb8224": {
+        "164ec4a8-bfef-4556-a139-1d88a6b44c6b": {
             "@type": "title"
         },
-        "500e0978-07a9-48e9-bf8e-d1220c940c49": {
-            "@type": "slate",
-            "plaintext": "",
-            "styles": {},
-            "value": [
-                {
-                    "children": [
-                        {
-                            "text": ""
-                        }
-                    ],
-                    "type": "p"
-                }
-            ]
-        },
-        "de502fad-faf5-4598-93c1-41fed9cdb2f1": {
+        "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e": {
             "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "3f3ea6ea-b20c-4560-99d5-6154b8fb8224",
-            "500e0978-07a9-48e9-bf8e-d1220c940c49",
-            "de502fad-faf5-4598-93c1-41fed9cdb2f1"
+            "164ec4a8-bfef-4556-a139-1d88a6b44c6b",
+            "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:43:58+00:00",
+    "created": "2024-03-07T10:42:05+00:00",
     "creators": [
         "admin"
     ],
@@ -42,24 +26,24 @@
     "effective": null,
     "exclude_from_nav": false,
     "expires": null,
-    "id": "forschung",
+    "id": "internationales",
     "is_folderish": true,
-    "language": "de-de",
+    "language": "de",
     "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-07T10:43:58+00:00",
+    "modified": "2024-03-07T10:42:20+00:00",
     "parent": {
-        "@id": "/de-de",
+        "@id": "/de",
         "@type": "LRF",
-        "UID": "ec493988d486407092f445b56be52c26",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
         "description": "",
         "image_field": null,
         "image_scales": null,
-        "review_state": "private",
-        "title": "Deutsch (Deutschland)",
+        "review_state": "published",
+        "title": "Deutsch",
         "type_title": "Basisordner einer Sprache"
     },
     "preview_caption": null,
@@ -67,7 +51,7 @@
     "review_state": "private",
     "rights": "",
     "subjects": [],
-    "title": "Forschung",
+    "title": "Internationales",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -77,7 +61,7 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:43:58+00:00"
+                "time": "2024-03-07T10:42:05+00:00"
             }
         ]
     },

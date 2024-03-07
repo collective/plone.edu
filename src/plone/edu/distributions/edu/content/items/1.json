@@ -1,21 +1,11 @@
 {
     "@id": "/Plone",
     "@type": "Plone Site",
-    "UID": "abe2d8fa5c2d4cc684fcd4ba9e9adbe1",
+    "UID": "351f11bfee714b0794fad5f9ff8c8327",
     "allow_discussion": null,
-    "blocks": {
-        "0a917a74-3f16-462a-aa93-6f4cb8faed96": {
-            "@type": "slate"
-        },
-        "5caa5075-7a96-4b70-8944-117b0e6fc516": {
-            "@type": "title"
-        }
-    },
+    "blocks": {},
     "blocks_layout": {
-        "items": [
-            "5caa5075-7a96-4b70-8944-117b0e6fc516",
-            "0a917a74-3f16-462a-aa93-6f4cb8faed96"
-        ]
+        "items": []
     },
     "contributors": [],
     "creators": [
@@ -28,7 +18,7 @@
     "id": "Plone",
     "is_folderish": true,
     "items_total": 2,
-    "language": "de-de",
+    "language": "de",
     "lock": {
         "locked": false,
         "stealable": true
@@ -38,6 +28,6 @@
     "rights": "",
     "subjects": [],
     "table_of_contents": null,
-    "title": "STUDIUM",
+    "title": "Site",
     "type_title": "Website"
 }

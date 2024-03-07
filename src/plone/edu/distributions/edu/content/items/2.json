@@ -1,35 +1,35 @@
 {
-    "@id": "/de-de",
+    "@id": "/de",
     "@type": "LRF",
-    "UID": "ec493988d486407092f445b56be52c26",
+    "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
     "allow_discussion": false,
     "contributors": [],
-    "created": "2024-03-07T10:35:17+00:00",
+    "created": "2024-03-07T10:39:59+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-07T11:45:10",
+    "effective": null,
     "exclude_from_nav": true,
     "expires": null,
-    "id": "de-de",
+    "id": "de",
     "is_folderish": true,
-    "language": "de-de",
+    "language": "de",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-07T10:45:10+00:00",
+    "modified": "2024-03-07T11:11:27+00:00",
     "parent": {
         "@id": "/",
         "@type": "Plone Site",
-        "UID": "abe2d8fa5c2d4cc684fcd4ba9e9adbe1",
+        "UID": "351f11bfee714b0794fad5f9ff8c8327",
         "description": "A Plone Site",
-        "title": "STUDIUM",
+        "title": "Site",
         "type_title": "Website"
     },
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Deutsch (Deutschland)",
+    "title": "Deutsch",
     "type_title": "Basisordner einer Sprache",
     "version": "current",
     "workflow_history": {
@@ -39,21 +39,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:35:17+00:00"
+                "time": "2024-03-07T10:39:59+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-07T10:35:17+00:00"
-            },
-            {
-                "action": "reject",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-07T10:45:10+00:00"
+                "time": "2024-03-07T10:39:59+00:00"
             }
         ]
     },
