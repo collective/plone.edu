@@ -10,7 +10,7 @@ import plone.edu  # noQA
 
 DEFAULT_ANSWERS = {
     "site_id": "plone",
-    "title": "My Site",
+    "title": "My University",
     "description": "Site created with A new Plone Distribution",
     "default_language": "de",
     "portal_timezone": "Europe/Berlin",

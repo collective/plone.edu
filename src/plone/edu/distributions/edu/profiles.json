@@ -2,6 +2,7 @@
   "base": [
     "plone.app.contenttypes:default",
     "plone.app.caching:default",
+    "plone.app.multilingual:default",
     "plone.restapi:default",
     "plone.volto:default",
     "collective.person:default",

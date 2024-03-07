@@ -1,6 +1,7 @@
-graft src/collective
+graft src/plone
 graft docs
 graft news
+graft scripts
 graft tests
 include .coveragerc
 include .dockerignore
@@ -10,6 +11,7 @@ include *.yml
 include *.md
 exclude *-mxdev.txt
 exclude Dockerfile
+exclude *.mo
 exclude mx.ini
 exclude Makefile
 recursive-exclude frontend *
