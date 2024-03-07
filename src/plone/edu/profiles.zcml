@@ -1,0 +1,32 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="plone.edu"
+    >
+
+  <genericsetup:registerProfile
+      name="default"
+      title="Plone EDU Distribution (plone.edu)"
+      description="Installs the Plone EDU Distribution."
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      directory="profiles/default"
+      post_handler=".setuphandlers.post_install"
+      />
+
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="Plone EDU Distribution (plone.edu): uninstall"
+      description="Uninstalls the Plone EDU Distribution."
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      directory="profiles/uninstall"
+      post_handler=".setuphandlers.uninstall"
+      />
+
+  <!--<include package=".upgrades" />-->
+
+  <utility
+      factory=".setuphandlers.HiddenProfiles"
+      name="plone.edu-hiddenprofiles"
+      />
+
+</configure>
