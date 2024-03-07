@@ -1,0 +1,102 @@
+{
+    "@id": "/de/personen/fatima-malik",
+    "@type": "Person",
+    "UID": "a229b0e6b278478eadb4421a8bb6e680",
+    "allow_discussion": false,
+    "blocks": {
+        "0ec529f8-e162-4320-9a7e-80b0d2088666": {
+            "@layout": "2444e746-f496-4c3e-a3c7-f6eea28cad16",
+            "@type": "slate",
+            "block": "081189bb-b089-4485-b43e-784a84b591f0",
+            "plaintext": "",
+            "styles": {},
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
+        },
+        "8d8e244b-49bc-49bc-8b60-6755e0e5d9a4": {
+            "@layout": "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
+            "@type": "title",
+            "block": "07d49f60-34c8-4121-9816-ffe48a488083",
+            "fixed": true,
+            "readOnly": true,
+            "required": true
+        },
+        "9d5b2a50-2561-4c5e-a075-edc3b45e55e9": {
+            "@layout": "aad6de27-6178-4b09-b19a-56ad8c5829e4",
+            "@type": "description",
+            "block": "1fb60a4e-d412-406d-848e-179828c87e81",
+            "fixed": true,
+            "required": true
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "8d8e244b-49bc-49bc-8b60-6755e0e5d9a4",
+            "9d5b2a50-2561-4c5e-a075-edc3b45e55e9",
+            "0ec529f8-e162-4320-9a7e-80b0d2088666"
+        ]
+    },
+    "changeNote": "",
+    "contact_email": null,
+    "contact_phone": null,
+    "contact_website": null,
+    "created": "2024-03-07T11:15:01+00:00",
+    "description": "Prof. Dr. Fatima Malik",
+    "exclude_from_nav": false,
+    "first_name": "Fatima",
+    "id": "fatima-malik",
+    "image": {
+        "blob_path": "blobs/a229b0e6b278478eadb4421a8bb6e680-image/jake-nackos-IF9TK5Uy-KI-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "jake-nackos-IF9TK5Uy-KI-unsplash.jpg",
+        "height": 5000,
+        "size": 1247886,
+        "width": 3974
+    },
+    "image_caption": null,
+    "is_folderish": true,
+    "last_name": "Malik",
+    "layout": "view",
+    "lock": {},
+    "modified": "2024-03-07T11:19:04+00:00",
+    "parent": {
+        "@id": "/de/personen",
+        "@type": "Document",
+        "UID": "d0cb2798a5c3411389c625c244792f6f",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "private",
+        "title": "Personen",
+        "type_title": "Seite"
+    },
+    "review_state": "private",
+    "roles": [
+        "member"
+    ],
+    "title": "Fatima Malik",
+    "type_title": "Person",
+    "version": "current",
+    "versioning_enabled": true,
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-07T11:15:01+00:00"
+            }
+        ]
+    },
+    "working_copy": null,
+    "working_copy_of": null
+}

@@ -1,48 +1,58 @@
 {
-  "@id": "/images/plone-foundation-logo.png",
-  "@type": "Image",
-  "UID": "2fa170f408524d45bf194f15008b123a",
-  "allow_discussion": false,
-  "contributors": [],
-  "created": "2023-06-24T19:37:23+00:00",
-  "creators": [
-      "admin"
-  ],
-  "description": "",
-  "effective": null,
-  "exclude_from_nav": false,
-  "expires": null,
-  "id": "plone-foundation-logo.png",
-  "image": {
-      "blob_path": "blobs/2fa170f408524d45bf194f15008b123a-image/plone-foundation-logo.png",
-      "content-type": "image/png",
-      "filename": "plone-foundation-logo.png",
-      "height": 700,
-      "size": 60300,
-      "width": 2000
-  },
-  "is_folderish": false,
-  "language": "en-us",
-  "layout": "image_view",
-  "lock": {},
-  "modified": "2023-06-24T19:37:23+00:00",
-  "parent": {
-      "@id": "/images",
-      "@type": "Document",
-      "UID": "99b8577ad8f0402cac90361fee5b157a",
-      "description": "Images used in this site",
-      "image_field": null,
-      "image_scales": null,
-      "review_state": "published",
-      "title": "Images",
-      "type_title": "Page"
-  },
-  "review_state": null,
-  "rights": "",
-  "subjects": [],
-  "title": "Plone Foundation Logo",
-  "type_title": "Image",
-  "version": "current",
-  "working_copy": null,
-  "working_copy_of": null
+    "@id": "/de/assets",
+    "@type": "LIF",
+    "UID": "5ba9ee6b488142a1a5ffc4ba18546f5f",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-07T10:39:59+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": true,
+    "expires": null,
+    "id": "assets",
+    "is_folderish": true,
+    "language": "de",
+    "layout": "folder_listing",
+    "lock": {},
+    "modified": "2024-03-07T10:39:59+00:00",
+    "parent": {
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
+    },
+    "review_state": "published",
+    "rights": "",
+    "subjects": [],
+    "title": "Assets",
+    "type_title": "Sprachunabh\u00e4ngiger Ordner",
+    "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-07T10:39:59+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-07T10:39:59+00:00"
+            }
+        ]
+    },
+    "working_copy": null,
+    "working_copy_of": null
 }

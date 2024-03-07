@@ -1,0 +1,70 @@
+{
+    "@id": "/de/organisation",
+    "@type": "Document",
+    "UID": "cd9af6eb8107428e99d1c8b45b036999",
+    "allow_discussion": false,
+    "blocks": {
+        "74a49ad7-ef65-4984-b72d-9570a1c61a3f": {
+            "@type": "title"
+        },
+        "7d4a5f7e-912d-4aab-bb06-de1a602ed523": {
+            "@type": "slate"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "74a49ad7-ef65-4984-b72d-9570a1c61a3f",
+            "7d4a5f7e-912d-4aab-bb06-de1a602ed523"
+        ]
+    },
+    "contributors": [],
+    "created": "2024-03-07T10:43:29+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "organisation",
+    "is_folderish": true,
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-07T10:43:29+00:00",
+    "parent": {
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
+    },
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "private",
+    "rights": "",
+    "subjects": [],
+    "title": "Organisation",
+    "type_title": "Seite",
+    "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-07T10:43:29+00:00"
+            }
+        ]
+    },
+    "working_copy": null,
+    "working_copy_of": null
+}

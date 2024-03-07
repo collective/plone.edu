@@ -1,0 +1,70 @@
+{
+    "@id": "/de/internationales",
+    "@type": "Document",
+    "UID": "3b1413db8c364d4a95ba0b408a2cc9dd",
+    "allow_discussion": false,
+    "blocks": {
+        "164ec4a8-bfef-4556-a139-1d88a6b44c6b": {
+            "@type": "title"
+        },
+        "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e": {
+            "@type": "slate"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "164ec4a8-bfef-4556-a139-1d88a6b44c6b",
+            "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e"
+        ]
+    },
+    "contributors": [],
+    "created": "2024-03-07T10:42:05+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "internationales",
+    "is_folderish": true,
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-07T10:42:20+00:00",
+    "parent": {
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
+    },
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "private",
+    "rights": "",
+    "subjects": [],
+    "title": "Internationales",
+    "type_title": "Seite",
+    "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-07T10:42:05+00:00"
+            }
+        ]
+    },
+    "working_copy": null,
+    "working_copy_of": null
+}

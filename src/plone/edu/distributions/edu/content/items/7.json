@@ -1,0 +1,98 @@
+{
+    "@id": "/de/personen",
+    "@type": "Document",
+    "UID": "d0cb2798a5c3411389c625c244792f6f",
+    "allow_discussion": false,
+    "blocks": {
+        "03aaf726-9e7f-4645-97af-29a38f2b302f": {
+            "@type": "search",
+            "listingBodyTemplate": "summary",
+            "query": {
+                "query": [
+                    {
+                        "i": "portal_type",
+                        "o": "plone.app.querystring.operation.selection.any",
+                        "v": [
+                            "Person"
+                        ]
+                    }
+                ],
+                "sort_on": "sortable_title",
+                "sort_order": "ascending"
+            },
+            "showSearchInput": true,
+            "showSortOn": true,
+            "showTotalResults": true
+        },
+        "74d2fa11-f193-4038-b93e-c07206e9dd5c": {
+            "@type": "slate"
+        },
+        "acd72e4e-bd91-4f8f-8544-1aa892db8750": {
+            "@type": "title"
+        },
+        "undefined": {
+            "@type": "search",
+            "listingBodyTemplate": "default",
+            "showSearchInput": true,
+            "showSortOn": true,
+            "showTotalResults": true
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "acd72e4e-bd91-4f8f-8544-1aa892db8750",
+            "03aaf726-9e7f-4645-97af-29a38f2b302f",
+            "74d2fa11-f193-4038-b93e-c07206e9dd5c"
+        ]
+    },
+    "contributors": [],
+    "created": "2024-03-07T11:11:27+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": true,
+    "expires": null,
+    "id": "personen",
+    "is_folderish": true,
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-07T12:10:38+00:00",
+    "parent": {
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
+    },
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "private",
+    "rights": "",
+    "subjects": [],
+    "title": "Personen",
+    "type_title": "Seite",
+    "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-07T11:11:27+00:00"
+            }
+        ]
+    },
+    "working_copy": null,
+    "working_copy_of": null
+}

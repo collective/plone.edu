@@ -1,0 +1,70 @@
+{
+    "@id": "/de/studium",
+    "@type": "Document",
+    "UID": "dac45303d5314f8d929002849b1934e3",
+    "allow_discussion": false,
+    "blocks": {
+        "7a73d006-c222-490d-b059-391cf19e7d91": {
+            "@type": "slate"
+        },
+        "ccab8cf1-665c-4200-9c8e-22b7bf0937f7": {
+            "@type": "title"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "ccab8cf1-665c-4200-9c8e-22b7bf0937f7",
+            "7a73d006-c222-490d-b059-391cf19e7d91"
+        ]
+    },
+    "contributors": [],
+    "created": "2024-03-07T10:41:47+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "studium",
+    "is_folderish": true,
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-07T10:41:47+00:00",
+    "parent": {
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
+    },
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "private",
+    "rights": "",
+    "subjects": [],
+    "title": "Studium",
+    "type_title": "Seite",
+    "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-07T10:41:47+00:00"
+            }
+        ]
+    },
+    "working_copy": null,
+    "working_copy_of": null
+}
