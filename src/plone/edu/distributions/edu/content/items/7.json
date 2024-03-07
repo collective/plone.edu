@@ -52,11 +52,11 @@
     ],
     "description": "",
     "effective": null,
-    "exclude_from_nav": true,
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "personen",
+    "id": "organisation",
     "is_folderish": true,
-    "language": "de",
+    "language": "de-de",
     "layout": "document_view",
     "lock": {
         "locked": false,
@@ -79,7 +79,7 @@
     "review_state": "private",
     "rights": "",
     "subjects": [],
-    "title": "Personen",
+    "title": "Organisation",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -89,7 +89,7 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T11:11:27+00:00"
+                "time": "2024-03-07T10:44:29+00:00"
             }
         ]
     },
