@@ -3,6 +3,7 @@
   <!-- List all packages you depend here -->
   <include package="plone.volto" />
   <include package="plone.restapi" />
+  <include package="collective.person" />
   <include package="plone.distribution" />
 
 </configure>
