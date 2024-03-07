@@ -1,7 +1,7 @@
 {
-    "@id": "/de-de",
+    "@id": "/en",
     "@type": "LRF",
-    "UID": "ec493988d486407092f445b56be52c26",
+    "UID": "976fa7f44345451cafdbed82f865c436",
     "allow_discussion": false,
     "contributors": [],
     "created": "2024-03-07T10:35:17+00:00",
@@ -9,15 +9,15 @@
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-07T11:45:10",
+    "effective": null,
     "exclude_from_nav": true,
     "expires": null,
-    "id": "de-de",
+    "id": "en",
     "is_folderish": true,
-    "language": "de-de",
+    "language": "en",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-07T10:45:10+00:00",
+    "modified": "2024-03-07T10:35:17+00:00",
     "parent": {
         "@id": "/",
         "@type": "Plone Site",
@@ -26,10 +26,10 @@
         "title": "STUDIUM",
         "type_title": "Website"
     },
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Deutsch (Deutschland)",
+    "title": "English",
     "type_title": "Basisordner einer Sprache",
     "version": "current",
     "workflow_history": {
@@ -47,13 +47,6 @@
                 "comments": "",
                 "review_state": "published",
                 "time": "2024-03-07T10:35:17+00:00"
-            },
-            {
-                "action": "reject",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-07T10:45:10+00:00"
             }
         ]
     },
