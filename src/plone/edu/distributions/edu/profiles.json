@@ -6,7 +6,8 @@
     "plone.restapi:default",
     "plone.volto:default",
     "collective.person:default",
-    "plonetheme.barceloneta:default"
+    "plonetheme.barceloneta:default",
+    "plone.edu:default"
   ],
   "content": []
 }
