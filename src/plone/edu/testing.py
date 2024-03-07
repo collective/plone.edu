@@ -1,4 +1,3 @@
-from plone.app.robotframework.testing import REMOTE_LIBRARY_BUNDLE_FIXTURE
 from plone.app.testing import FunctionalTesting
 from plone.app.testing import IntegrationTesting
 from plone.app.testing import PloneSandboxLayer
@@ -50,14 +49,4 @@ INTEGRATION_TESTING = IntegrationTesting(
 FUNCTIONAL_TESTING = FunctionalTesting(
     bases=(FIXTURE, WSGI_SERVER_FIXTURE),
     name="Plone.EduLayer:FunctionalTesting",
-)
-
-
-ACCEPTANCE_TESTING = FunctionalTesting(
-    bases=(
-        FIXTURE,
-        REMOTE_LIBRARY_BUNDLE_FIXTURE,
-        WSGI_SERVER_FIXTURE,
-    ),
-    name="Plone.EduLayer:AcceptanceTesting",
 )

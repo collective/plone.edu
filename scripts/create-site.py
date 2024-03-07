@@ -54,6 +54,9 @@ def get_answers_file() -> Path:
 
 def parse_answers(answers_file: Path, site_id: str = "") -> dict:
     answers = json.loads(answers_file.read_text())
+    if "distribution" not in answers:
+        # This is a bug in plone.distribution and should be fixed there
+        answers["distribution"] = DISTRIBUTION
     if site_id:
         answers["site_id"] = site_id
     return answers
