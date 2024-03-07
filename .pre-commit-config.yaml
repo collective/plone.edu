@@ -87,9 +87,8 @@ repos:
 
 ##
 # Add extra configuration options in .meta.toml:
-    [pre_commit]
-        - id: codespell
-        exclude: >
-            (?x)^(
-                .*\.json
-            )$
+#  [pre_commit]
+#  extra_lines = """
+#  _your own configuration lines_
+#  """
+##
