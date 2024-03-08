@@ -37,6 +37,9 @@
     <element value="plone.versioning" />
     <element value="volto.blocks" />
     <element value="volto.preview_image_link" />
+    <!-- todo: replace with volto.kicker (https://github.com/plone/plone.volto/pull/140) -->
+    <element value="volto.head_title" />
+    <element value="volto.navtitle" />
     <element value="plone.namefromtitle" />
     <element value="plone.translatable" />
     <element value="plone.navigationroot" />
