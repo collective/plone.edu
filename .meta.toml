@@ -10,7 +10,7 @@ codespell_skip = "*.min.js,*.py,*.json"
 codespell_ignores = "vew"
 dependencies_ignores = "['plone.app.multilingual', 'plone.volto', 'plone.api', 'zestreleaser.towncrier', 'zest.releaser', 'pytest', 'pytest-cov', 'pytest-plone']"
 dependencies_mappings = [
-    "Plone = ['Products.CMFPlone', 'Products.CMFCore', 'Products.GenericSetup', 'plone-app-multilingual']",
+    "Plone = ['Products.CMFPlone', 'Products.CMFCore', 'Products.GenericSetup', 'plone.app.multilingual']",
     ]
 
 [tox]
