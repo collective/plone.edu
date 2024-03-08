@@ -1,7 +1,7 @@
 {
     "@id": "/Plone",
     "@type": "Plone Site",
-    "UID": "85a31592e0af48f386864432792ff304",
+    "UID": "7dff39a20f00468fb6b43276791e1ccb",
     "allow_discussion": null,
     "blocks": {},
     "blocks_layout": {

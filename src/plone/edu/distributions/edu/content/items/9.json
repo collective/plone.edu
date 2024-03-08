@@ -1,74 +1,48 @@
 {
-    "@id": "/de/organisation/philosophische-fakultaet",
-    "@type": "Subsite",
-    "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+    "@id": "/de/organisation/fakultaet-informatik/getty-images-d6p8fnyzxx4-unsplash-1.jpg",
+    "@type": "Image",
+    "UID": "7bbab45447bf4013b968473a73e07cc4",
     "allow_discussion": false,
-    "blocks": {
-        "52a6b3ca-45aa-4b21-8e8b-9044872115f8": {
-            "@type": "slate"
-        },
-        "5a88dd92-783d-443f-ae09-b921177e09d7": {
-            "@type": "title"
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "5a88dd92-783d-443f-ae09-b921177e09d7",
-            "52a6b3ca-45aa-4b21-8e8b-9044872115f8"
-        ]
-    },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:47:54+00:00",
+    "created": "2024-03-08T22:32:15+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:47:57",
+    "effective": null,
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "philosophische-fakultaet",
-    "is_folderish": true,
-    "layout": "view",
-    "lock": {
-        "locked": false,
-        "stealable": true
+    "id": "getty-images-d6p8fnyzxx4-unsplash-1.jpg",
+    "image": {
+        "blob_path": "blobs/7bbab45447bf4013b968473a73e07cc4-image/getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+        "height": 4800,
+        "size": 2359744,
+        "width": 6500
     },
-    "modified": "2024-03-08T19:47:57+00:00",
+    "is_folderish": false,
+    "language": "",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:32:15+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-informatik",
+        "@type": "Subsite",
+        "UID": "381f3d5686534d26ae59f48acb51f928",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Informatik",
+        "type_title": "Subsite"
     },
-    "review_state": "published",
+    "review_state": null,
     "rights": "",
-    "title": "Philosophische Fakult\u00e4t",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+    "type_title": "Bild",
     "version": "current",
-    "versioning_enabled": true,
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-08T19:47:54+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-08T19:47:57+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }

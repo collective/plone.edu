@@ -1,74 +1,48 @@
 {
-    "@id": "/de/organisation/fakultaet-informatik",
-    "@type": "Subsite",
-    "UID": "381f3d5686534d26ae59f48acb51f928",
+    "@id": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
+    "@type": "Image",
+    "UID": "be6a9522ab144738ae0d1f3d5328a5aa",
     "allow_discussion": false,
-    "blocks": {
-        "1fbbdc7d-8135-402e-8daf-2352d9fab0ea": {
-            "@type": "slate"
-        },
-        "e3707a58-e364-4196-984a-806cef80476a": {
-            "@type": "title"
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "e3707a58-e364-4196-984a-806cef80476a",
-            "1fbbdc7d-8135-402e-8daf-2352d9fab0ea"
-        ]
-    },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:48:14+00:00",
+    "created": "2024-03-08T22:29:40+00:00",
     "creators": [
         "admin"
     ],
-    "description": "",
-    "effective": "2024-03-08T20:48:17",
+    "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
+    "effective": null,
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "fakultaet-informatik",
-    "is_folderish": true,
-    "layout": "view",
-    "lock": {
-        "locked": false,
-        "stealable": true
+    "id": "rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/be6a9522ab144738ae0d1f3d5328a5aa-image/rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+        "height": 4000,
+        "size": 3229020,
+        "width": 6000
     },
-    "modified": "2024-03-08T19:48:17+00:00",
+    "is_folderish": false,
+    "language": "",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:29:50+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-biologie",
+        "@type": "Subsite",
+        "UID": "dfe27277e292413ca8039daf4e86f231",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Biologie",
+        "type_title": "Subsite"
     },
-    "review_state": "published",
+    "review_state": null,
     "rights": "",
-    "title": "Fakult\u00e4t Informatik",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+    "type_title": "Bild",
     "version": "current",
-    "versioning_enabled": true,
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-08T19:48:14+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-08T19:48:17+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }

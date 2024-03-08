@@ -1,87 +1,134 @@
 {
-    "@id": "/de/personen",
-    "@type": "Document",
-    "UID": "d0cb2798a5c3411389c625c244792f6f",
+    "@id": "/de/organisation/fakultaet-mathematik",
+    "@type": "Subsite",
+    "UID": "f19746e11ed4487388cbf353a50b8a63",
     "allow_discussion": false,
     "blocks": {
-        "03aaf726-9e7f-4645-97af-29a38f2b302f": {
-            "@type": "search",
-            "listingBodyTemplate": "summary",
-            "query": {
-                "query": [
-                    {
-                        "i": "portal_type",
-                        "o": "plone.app.querystring.operation.selection.any",
-                        "v": [
-                            "Person"
-                        ]
-                    }
-                ],
-                "sort_on": "sortable_title",
-                "sort_order": "ascending"
-            },
-            "showSearchInput": true,
-            "showSortOn": true,
-            "showTotalResults": true
-        },
-        "74d2fa11-f193-4038-b93e-c07206e9dd5c": {
+        "b33009db-9bda-4e11-bd4d-35b459a19cca": {
             "@type": "slate"
         },
-        "acd72e4e-bd91-4f8f-8544-1aa892db8750": {
-            "@type": "title"
+        "f551fdcb-4870-4637-8687-36d953cb0857": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
+            "image_field": "image",
+            "image_scales": {
+                "image": [
+                    {
+                        "content-type": "image/jpeg",
+                        "download": "@@images/image-5060-43088f7278576e716b70f6132a2ea03e.jpeg",
+                        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+                        "height": 3358,
+                        "scales": {
+                            "great": {
+                                "download": "@@images/image-1200-fd9a68c504eedc01fd9f4f19d8b13fde.jpeg",
+                                "height": 796,
+                                "width": 1200
+                            },
+                            "huge": {
+                                "download": "@@images/image-1600-4f6f40655afb04ce2f05c2f59fae77fd.jpeg",
+                                "height": 1061,
+                                "width": 1600
+                            },
+                            "icon": {
+                                "download": "@@images/image-32-61e0225919d9ecb99542fa9bf4985d3a.jpeg",
+                                "height": 21,
+                                "width": 32
+                            },
+                            "large": {
+                                "download": "@@images/image-800-9384f4e9e28196c0d019fb497afc9e54.jpeg",
+                                "height": 530,
+                                "width": 800
+                            },
+                            "larger": {
+                                "download": "@@images/image-1000-2756d7e1a998b1341407f3c4c7cd54d5.jpeg",
+                                "height": 663,
+                                "width": 1000
+                            },
+                            "mini": {
+                                "download": "@@images/image-200-3ce2a1177f2ed60b7dade50def9e3f24.jpeg",
+                                "height": 132,
+                                "width": 200
+                            },
+                            "preview": {
+                                "download": "@@images/image-400-6f5b9ca8af89d4edf7824b0e1ddb4670.jpeg",
+                                "height": 265,
+                                "width": 400
+                            },
+                            "teaser": {
+                                "download": "@@images/image-600-a0ac98b181d28031e7840fc61a2b5bfa.jpeg",
+                                "height": 398,
+                                "width": 600
+                            },
+                            "thumb": {
+                                "download": "@@images/image-128-ce4b6d5ee99834931c2004cf00804b9f.jpeg",
+                                "height": 84,
+                                "width": 128
+                            },
+                            "tile": {
+                                "download": "@@images/image-64-74a1d98ea141f9f13e6813f6a6de11ff.jpeg",
+                                "height": 42,
+                                "width": 64
+                            }
+                        },
+                        "size": 2305255,
+                        "width": 5060
+                    }
+                ]
+            },
+            "size": "l",
+            "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+            "url": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg"
         },
-        "undefined": {
-            "@type": "search",
-            "listingBodyTemplate": "default",
-            "showSearchInput": true,
-            "showSortOn": true,
-            "showTotalResults": true
+        "fdf65224-068f-41b9-8cc8-85a355d0ee1d": {
+            "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "acd72e4e-bd91-4f8f-8544-1aa892db8750",
-            "03aaf726-9e7f-4645-97af-29a38f2b302f",
-            "74d2fa11-f193-4038-b93e-c07206e9dd5c"
+            "fdf65224-068f-41b9-8cc8-85a355d0ee1d",
+            "f551fdcb-4870-4637-8687-36d953cb0857",
+            "b33009db-9bda-4e11-bd4d-35b459a19cca"
         ]
     },
+    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-07T11:11:27+00:00",
+    "created": "2024-03-08T19:46:25+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:00:00",
-    "exclude_from_nav": false,
+    "effective": "2024-03-08T22:54:00",
     "expires": null,
-    "id": "personen",
+    "head_title": null,
+    "id": "fakultaet-mathematik",
     "is_folderish": true,
-    "language": "de",
-    "layout": "document_view",
+    "layout": "view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T19:31:47+00:00",
+    "modified": "2024-03-08T22:28:34+00:00",
+    "nav_title": null,
     "parent": {
-        "@id": "/de",
-        "@type": "LRF",
-        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "@id": "/de/organisation",
+        "@type": "Document",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Deutsch",
-        "type_title": "Basisordner einer Sprache"
+        "title": "Organisation",
+        "type_title": "Seite"
     },
-    "preview_caption": null,
-    "preview_image": null,
+    "preview_caption_link": null,
     "review_state": "published",
     "rights": "",
-    "subjects": [],
-    "title": "Personen",
-    "type_title": "Seite",
+    "title": "Fakult\u00e4t Mathematik",
+    "type_title": "Subsite",
     "version": "current",
+    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -89,14 +136,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:44:29+00:00"
+                "time": "2024-03-08T19:46:25+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:00:10+00:00"
+                "time": "2024-03-08T21:54:39+00:00"
             }
         ]
     },
