@@ -19,7 +19,7 @@ class TestDistributionPortalEdu:
     @pytest.mark.parametrize(
         "attr,expected",
         [
-            ("title", "My Site"),
+            ("title", "My University"),
             ("description", "Site created with A new Plone Distribution"),
             ("exclude_from_nav", False),
         ],
@@ -43,7 +43,7 @@ class TestDistributionPortalEdu:
     @pytest.mark.parametrize(
         "path,title,portal_type,review_state",
         [
-            ("/", "My Site", "Plone Site", ""),
+            ("/", "My University", "Plone Site", ""),
         ],
     )
     def test_content_created(self, path, title, portal_type, review_state):
