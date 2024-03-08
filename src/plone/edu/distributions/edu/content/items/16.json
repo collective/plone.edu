@@ -1,49 +1,32 @@
 {
-    "@id": "/de/organisation",
+    "@id": "/de/studium",
     "@type": "Document",
-    "UID": "cd9af6eb8107428e99d1c8b45b036999",
+    "UID": "dac45303d5314f8d929002849b1934e3",
     "allow_discussion": false,
     "blocks": {
-        "74a49ad7-ef65-4984-b72d-9570a1c61a3f": {
-            "@type": "title"
-        },
-        "7d4a5f7e-912d-4aab-bb06-de1a602ed523": {
-            "@type": "listing",
-            "headlineTag": "h2",
-            "querystring": {
-                "query": [
-                    {
-                        "i": "path",
-                        "o": "plone.app.querystring.operation.string.relativePath",
-                        "v": ".::1"
-                    }
-                ],
-                "sort_order": "ascending"
-            },
-            "styles": {},
-            "variation": "grid"
-        },
-        "8657607c-e402-4af3-9710-c30f26bf1508": {
+        "7a73d006-c222-490d-b059-391cf19e7d91": {
             "@type": "slate"
+        },
+        "ccab8cf1-665c-4200-9c8e-22b7bf0937f7": {
+            "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "74a49ad7-ef65-4984-b72d-9570a1c61a3f",
-            "7d4a5f7e-912d-4aab-bb06-de1a602ed523",
-            "8657607c-e402-4af3-9710-c30f26bf1508"
+            "ccab8cf1-665c-4200-9c8e-22b7bf0937f7",
+            "7a73d006-c222-490d-b059-391cf19e7d91"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:43:29+00:00",
+    "created": "2024-03-07T10:41:47+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:00:00",
+    "effective": "2024-03-08T19:59:00",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "organisation",
+    "id": "studium",
     "is_folderish": true,
     "language": "de",
     "layout": "document_view",
@@ -51,7 +34,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T19:48:14+00:00",
+    "modified": "2024-03-08T18:59:49+00:00",
     "parent": {
         "@id": "/de",
         "@type": "LRF",
@@ -68,7 +51,7 @@
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Organisation",
+    "title": "Studium",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -78,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:43:29+00:00"
+                "time": "2024-03-07T10:41:47+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:00:06+00:00"
+                "time": "2024-03-08T18:59:49+00:00"
             }
         ]
     },
