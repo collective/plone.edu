@@ -1,41 +1,91 @@
 {
-    "@id": "/en",
-    "@type": "LRF",
-    "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
+    "@id": "/de/personen/jonas-richter-richter",
+    "@type": "Person",
+    "UID": "9e1e4c28d2104d92b79f9757d32688df",
     "allow_discussion": false,
-    "blocks": {},
-    "blocks_layout": {
-        "items": []
+    "blocks": {
+        "3bb8a050-5be4-4827-8242-2acf4928f118": {
+            "@layout": "aad6de27-6178-4b09-b19a-56ad8c5829e4",
+            "@type": "description",
+            "block": "3bb8a050-5be4-4827-8242-2acf4928f118",
+            "fixed": true,
+            "required": true
+        },
+        "55fd1b4f-d2a7-4880-ac8c-9478930449d0": {
+            "@layout": "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
+            "@type": "title",
+            "block": "55fd1b4f-d2a7-4880-ac8c-9478930449d0",
+            "fixed": true,
+            "readOnly": true,
+            "required": true
+        },
+        "e849eafb-b12b-4323-ae5c-fe4ae4ee495d": {
+            "@layout": "2444e746-f496-4c3e-a3c7-f6eea28cad16",
+            "@type": "slate",
+            "block": "e849eafb-b12b-4323-ae5c-fe4ae4ee495d",
+            "plaintext": "",
+            "styles": {},
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
+        }
     },
-    "contributors": [],
-    "created": "2024-03-07T10:39:59+00:00",
-    "creators": [
-        "admin"
-    ],
-    "description": "",
-    "effective": null,
-    "exclude_from_nav": true,
-    "expires": null,
-    "id": "en",
+    "blocks_layout": {
+        "items": [
+            "55fd1b4f-d2a7-4880-ac8c-9478930449d0",
+            "3bb8a050-5be4-4827-8242-2acf4928f118",
+            "e849eafb-b12b-4323-ae5c-fe4ae4ee495d"
+        ]
+    },
+    "changeNote": "",
+    "contact_email": null,
+    "contact_phone": null,
+    "contact_website": null,
+    "created": "2024-03-07T11:17:58+00:00",
+    "description": "Dr. Jonas Richter",
+    "exclude_from_nav": false,
+    "first_name": "Jonas Richter",
+    "id": "jonas-richter-richter",
+    "image": {
+        "blob_path": "blobs/9e1e4c28d2104d92b79f9757d32688df-image/albert-dera-ILip77SbmOE-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "albert-dera-ILip77SbmOE-unsplash.jpg",
+        "height": 5616,
+        "size": 2466763,
+        "width": 3744
+    },
+    "image_caption": null,
     "is_folderish": true,
-    "language": "de",
-    "layout": "folder_listing",
+    "last_name": "Richter",
+    "layout": "view",
     "lock": {},
-    "modified": "2024-03-07T17:00:37+00:00",
+    "modified": "2024-03-08T19:30:33+00:00",
     "parent": {
-        "@id": "/",
-        "@type": "Plone Site",
-        "UID": "9b41519acb4e4255bfdf43620d5c2883",
-        "description": "A Plone Site",
-        "title": "Site",
-        "type_title": "Website"
+        "@id": "/de/personen",
+        "@type": "Document",
+        "UID": "d0cb2798a5c3411389c625c244792f6f",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Personen",
+        "type_title": "Seite"
     },
     "review_state": "published",
-    "rights": "",
-    "subjects": [],
-    "title": "English",
-    "type_title": "Basisordner einer Sprache",
+    "roles": [
+        "member"
+    ],
+    "title": "Jonas Richter Richter",
+    "type_title": "Person",
     "version": "current",
+    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -43,14 +93,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:39:59+00:00"
+                "time": "2024-03-07T11:17:58+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-07T10:39:59+00:00"
+                "time": "2024-03-08T19:30:33+00:00"
             }
         ]
     },

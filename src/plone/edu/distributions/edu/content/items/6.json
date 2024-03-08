@@ -1,87 +1,56 @@
 {
-    "@id": "/de/personen",
-    "@type": "Document",
-    "UID": "d0cb2798a5c3411389c625c244792f6f",
+    "@id": "/de/organisation/fakultaet-biologie",
+    "@type": "Subsite",
+    "UID": "dfe27277e292413ca8039daf4e86f231",
     "allow_discussion": false,
     "blocks": {
-        "03aaf726-9e7f-4645-97af-29a38f2b302f": {
-            "@type": "search",
-            "listingBodyTemplate": "summary",
-            "query": {
-                "query": [
-                    {
-                        "i": "portal_type",
-                        "o": "plone.app.querystring.operation.selection.any",
-                        "v": [
-                            "Person"
-                        ]
-                    }
-                ],
-                "sort_on": "sortable_title",
-                "sort_order": "ascending"
-            },
-            "showSearchInput": true,
-            "showSortOn": true,
-            "showTotalResults": true
-        },
-        "74d2fa11-f193-4038-b93e-c07206e9dd5c": {
-            "@type": "slate"
-        },
-        "acd72e4e-bd91-4f8f-8544-1aa892db8750": {
+        "22326295-9b61-4602-8aa4-bc42f6902ae3": {
             "@type": "title"
         },
-        "undefined": {
-            "@type": "search",
-            "listingBodyTemplate": "default",
-            "showSearchInput": true,
-            "showSortOn": true,
-            "showTotalResults": true
+        "64321d98-c526-4950-8a6e-be5193989af0": {
+            "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "acd72e4e-bd91-4f8f-8544-1aa892db8750",
-            "03aaf726-9e7f-4645-97af-29a38f2b302f",
-            "74d2fa11-f193-4038-b93e-c07206e9dd5c"
+            "22326295-9b61-4602-8aa4-bc42f6902ae3",
+            "64321d98-c526-4950-8a6e-be5193989af0"
         ]
     },
+    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-07T11:11:27+00:00",
+    "created": "2024-03-08T19:47:21+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:00:00",
-    "exclude_from_nav": false,
+    "effective": "2024-03-08T20:47:24",
     "expires": null,
-    "id": "personen",
+    "id": "fakultaet-biologie",
     "is_folderish": true,
-    "language": "de",
-    "layout": "document_view",
+    "layout": "view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T19:29:16+00:00",
+    "modified": "2024-03-08T19:47:24+00:00",
     "parent": {
-        "@id": "/de",
-        "@type": "LRF",
-        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "@id": "/de/organisation",
+        "@type": "Document",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Deutsch",
-        "type_title": "Basisordner einer Sprache"
+        "title": "Organisation",
+        "type_title": "Seite"
     },
-    "preview_caption": null,
-    "preview_image": null,
     "review_state": "published",
     "rights": "",
-    "subjects": [],
-    "title": "Personen",
-    "type_title": "Seite",
+    "title": "Fakult\u00e4t Biologie",
+    "type_title": "Subsite",
     "version": "current",
+    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -89,14 +58,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:44:29+00:00"
+                "time": "2024-03-08T19:47:21+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:00:10+00:00"
+                "time": "2024-03-08T19:47:24+00:00"
             }
         ]
     },

@@ -1,91 +1,87 @@
 {
-    "@id": "/de/personen/lea-wagner",
-    "@type": "Person",
-    "UID": "104a853a926148a1841b700442fefb95",
+    "@id": "/de/personen",
+    "@type": "Document",
+    "UID": "d0cb2798a5c3411389c625c244792f6f",
     "allow_discussion": false,
     "blocks": {
-        "03fc4a6f-4b13-4dd3-8f14-7a77ac64298a": {
-            "@layout": "2444e746-f496-4c3e-a3c7-f6eea28cad16",
-            "@type": "slate",
-            "block": "42cf7b20-214e-498d-899a-47d2fb25c8ec",
-            "plaintext": "",
-            "styles": {},
-            "value": [
-                {
-                    "children": [
-                        {
-                            "text": ""
-                        }
-                    ],
-                    "type": "p"
-                }
-            ]
+        "03aaf726-9e7f-4645-97af-29a38f2b302f": {
+            "@type": "search",
+            "listingBodyTemplate": "summary",
+            "query": {
+                "query": [
+                    {
+                        "i": "portal_type",
+                        "o": "plone.app.querystring.operation.selection.any",
+                        "v": [
+                            "Person"
+                        ]
+                    }
+                ],
+                "sort_on": "sortable_title",
+                "sort_order": "ascending"
+            },
+            "showSearchInput": true,
+            "showSortOn": true,
+            "showTotalResults": true
         },
-        "6fb5c11e-25bb-4ee0-a159-9a9dd6ec18ff": {
-            "@layout": "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
-            "@type": "title",
-            "block": "0204b240-1b32-4bc9-890f-4df7a1d517ef",
-            "fixed": true,
-            "readOnly": true,
-            "required": true
+        "74d2fa11-f193-4038-b93e-c07206e9dd5c": {
+            "@type": "slate"
         },
-        "c3befa81-5b6e-4d99-8b3b-765b7c638211": {
-            "@layout": "aad6de27-6178-4b09-b19a-56ad8c5829e4",
-            "@type": "description",
-            "block": "6a732df4-54da-4ded-85ee-bd867dd376d8",
-            "fixed": true,
-            "required": true
+        "acd72e4e-bd91-4f8f-8544-1aa892db8750": {
+            "@type": "title"
+        },
+        "undefined": {
+            "@type": "search",
+            "listingBodyTemplate": "default",
+            "showSearchInput": true,
+            "showSortOn": true,
+            "showTotalResults": true
         }
     },
     "blocks_layout": {
         "items": [
-            "6fb5c11e-25bb-4ee0-a159-9a9dd6ec18ff",
-            "c3befa81-5b6e-4d99-8b3b-765b7c638211",
-            "03fc4a6f-4b13-4dd3-8f14-7a77ac64298a"
+            "acd72e4e-bd91-4f8f-8544-1aa892db8750",
+            "03aaf726-9e7f-4645-97af-29a38f2b302f",
+            "74d2fa11-f193-4038-b93e-c07206e9dd5c"
         ]
     },
-    "changeNote": "",
-    "contact_email": null,
-    "contact_phone": null,
-    "contact_website": null,
-    "created": "2024-03-07T15:23:11+00:00",
-    "description": "Prof. Dr. Lea Wagner",
+    "contributors": [],
+    "created": "2024-03-07T11:11:27+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": "2024-03-08T20:00:00",
     "exclude_from_nav": false,
-    "first_name": "Lea",
-    "id": "lea-wagner",
-    "image": {
-        "blob_path": "blobs/104a853a926148a1841b700442fefb95-image/edward-cisneros-_H6wpor9mjs-unsplash.jpg",
-        "content-type": "image/jpeg",
-        "filename": "edward-cisneros-_H6wpor9mjs-unsplash.jpg",
-        "height": 4480,
-        "size": 4248817,
-        "width": 6720
-    },
-    "image_caption": null,
+    "expires": null,
+    "id": "personen",
     "is_folderish": true,
-    "last_name": "Wagner",
-    "layout": "view",
-    "lock": {},
-    "modified": "2024-03-08T19:30:39+00:00",
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-08T19:31:47+00:00",
     "parent": {
-        "@id": "/de/personen",
-        "@type": "Document",
-        "UID": "d0cb2798a5c3411389c625c244792f6f",
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Personen",
-        "type_title": "Seite"
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
     },
+    "preview_caption": null,
+    "preview_image": null,
     "review_state": "published",
-    "roles": [
-        "member"
-    ],
-    "title": "Lea Wagner",
-    "type_title": "Person",
+    "rights": "",
+    "subjects": [],
+    "title": "Personen",
+    "type_title": "Seite",
     "version": "current",
-    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -93,14 +89,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T15:23:11+00:00"
+                "time": "2024-03-07T10:44:29+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:30:39+00:00"
+                "time": "2024-03-08T19:00:10+00:00"
             }
         ]
     },
