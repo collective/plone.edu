@@ -21,11 +21,11 @@
     "language": "de",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-07T15:20:45+00:00",
+    "modified": "2024-03-07T17:00:37+00:00",
     "parent": {
         "@id": "/",
         "@type": "Plone Site",
-        "UID": "76cb366201f940cba190a462d4432500",
+        "UID": "59e0a092b59e45259a6ef16c73897d7a",
         "description": "A Plone Site",
         "title": "Site",
         "type_title": "Website"

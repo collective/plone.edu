@@ -1,87 +1,91 @@
 {
-    "@id": "/de/personen",
-    "@type": "Document",
-    "UID": "d0cb2798a5c3411389c625c244792f6f",
+    "@id": "/de/personen/ahmed-schmidt",
+    "@type": "Person",
+    "UID": "62f56457b0d3421fbb73f354b4275c2e",
     "allow_discussion": false,
     "blocks": {
-        "03aaf726-9e7f-4645-97af-29a38f2b302f": {
-            "@type": "search",
-            "listingBodyTemplate": "summary",
-            "query": {
-                "query": [
-                    {
-                        "i": "portal_type",
-                        "o": "plone.app.querystring.operation.selection.any",
-                        "v": [
-                            "Person"
-                        ]
-                    }
-                ],
-                "sort_on": "sortable_title",
-                "sort_order": "ascending"
-            },
-            "showSearchInput": true,
-            "showSortOn": true,
-            "showTotalResults": true
+        "009d1f19-473a-40cb-93d7-c185d4132f04": {
+            "@layout": "aad6de27-6178-4b09-b19a-56ad8c5829e4",
+            "@type": "description",
+            "block": "f164b61b-a6ce-4ccc-8868-651755a0d206",
+            "fixed": true,
+            "required": true
         },
-        "74d2fa11-f193-4038-b93e-c07206e9dd5c": {
-            "@type": "slate"
+        "a0864c63-59fa-4b27-9307-271b2019fa6d": {
+            "@layout": "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
+            "@type": "title",
+            "block": "bb88a92a-9d5f-4f71-9a54-3d22285a34d5",
+            "fixed": true,
+            "readOnly": true,
+            "required": true
         },
-        "acd72e4e-bd91-4f8f-8544-1aa892db8750": {
-            "@type": "title"
-        },
-        "undefined": {
-            "@type": "search",
-            "listingBodyTemplate": "default",
-            "showSearchInput": true,
-            "showSortOn": true,
-            "showTotalResults": true
+        "aa7bfd07-71aa-4296-a990-a311c58e7195": {
+            "@layout": "2444e746-f496-4c3e-a3c7-f6eea28cad16",
+            "@type": "slate",
+            "block": "9a3a4c69-f859-430c-bb3b-e6294f445383",
+            "plaintext": "",
+            "styles": {},
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
         }
     },
     "blocks_layout": {
         "items": [
-            "acd72e4e-bd91-4f8f-8544-1aa892db8750",
-            "03aaf726-9e7f-4645-97af-29a38f2b302f",
-            "74d2fa11-f193-4038-b93e-c07206e9dd5c"
+            "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
+            "aad6de27-6178-4b09-b19a-56ad8c5829e4",
+            "2444e746-f496-4c3e-a3c7-f6eea28cad16"
         ]
     },
-    "contributors": [],
-    "created": "2024-03-07T11:11:27+00:00",
-    "creators": [
-        "admin"
-    ],
-    "description": "",
-    "effective": null,
+    "changeNote": "",
+    "contact_email": null,
+    "contact_phone": null,
+    "contact_website": null,
+    "created": "2024-03-07T11:24:36+00:00",
+    "description": "Prof. Dr. Ahmed Schmidt",
     "exclude_from_nav": false,
-    "expires": null,
-    "id": "personen",
-    "is_folderish": true,
-    "language": "de",
-    "layout": "document_view",
-    "lock": {
-        "locked": false,
-        "stealable": true
+    "first_name": "Ahmed",
+    "id": "ahmed-schmidt",
+    "image": {
+        "blob_path": "blobs/62f56457b0d3421fbb73f354b4275c2e-image/jurica-koletic-7YVZYZeITc8-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "jurica-koletic-7YVZYZeITc8-unsplash (1).jpg",
+        "height": 4499,
+        "size": 4204148,
+        "width": 3000
     },
-    "modified": "2024-03-07T15:27:53+00:00",
+    "image_caption": null,
+    "is_folderish": true,
+    "last_name": "Schmidt",
+    "layout": "view",
+    "lock": {},
+    "modified": "2024-03-07T11:24:36+00:00",
     "parent": {
-        "@id": "/de",
-        "@type": "LRF",
-        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "@id": "/de/personen",
+        "@type": "Document",
+        "UID": "d0cb2798a5c3411389c625c244792f6f",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Deutsch",
-        "type_title": "Basisordner einer Sprache"
+        "title": "Personen",
+        "type_title": "Seite"
     },
-    "preview_caption": null,
-    "preview_image": null,
     "review_state": "private",
-    "rights": "",
-    "subjects": [],
-    "title": "Personen",
-    "type_title": "Seite",
+    "roles": [
+        "member"
+    ],
+    "title": "Ahmed Schmidt",
+    "type_title": "Person",
     "version": "current",
+    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -89,7 +93,7 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:44:29+00:00"
+                "time": "2024-03-07T11:24:36+00:00"
             }
         ]
     },

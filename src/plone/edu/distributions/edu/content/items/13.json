@@ -1,58 +1,40 @@
 {
-    "@id": "/de/studium",
-    "@type": "Document",
-    "UID": "dac45303d5314f8d929002849b1934e3",
+    "@id": "/en",
+    "@type": "LRF",
+    "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
     "allow_discussion": false,
-    "blocks": {
-        "7a73d006-c222-490d-b059-391cf19e7d91": {
-            "@type": "slate"
-        },
-        "ccab8cf1-665c-4200-9c8e-22b7bf0937f7": {
-            "@type": "title"
-        }
-    },
+    "blocks": {},
     "blocks_layout": {
-        "items": [
-            "ccab8cf1-665c-4200-9c8e-22b7bf0937f7",
-            "7a73d006-c222-490d-b059-391cf19e7d91"
-        ]
+        "items": []
     },
     "contributors": [],
-    "created": "2024-03-07T10:41:47+00:00",
+    "created": "2024-03-07T10:39:59+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
     "effective": null,
-    "exclude_from_nav": false,
+    "exclude_from_nav": true,
     "expires": null,
-    "id": "studium",
+    "id": "en",
     "is_folderish": true,
     "language": "de",
-    "layout": "document_view",
-    "lock": {
-        "locked": false,
-        "stealable": true
-    },
-    "modified": "2024-03-07T10:41:47+00:00",
+    "layout": "folder_listing",
+    "lock": {},
+    "modified": "2024-03-07T17:00:37+00:00",
     "parent": {
-        "@id": "/de",
-        "@type": "LRF",
-        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
-        "description": "",
-        "image_field": null,
-        "image_scales": null,
-        "review_state": "published",
-        "title": "Deutsch",
-        "type_title": "Basisordner einer Sprache"
+        "@id": "/",
+        "@type": "Plone Site",
+        "UID": "59e0a092b59e45259a6ef16c73897d7a",
+        "description": "A Plone Site",
+        "title": "Site",
+        "type_title": "Website"
     },
-    "preview_caption": null,
-    "preview_image": null,
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Studium",
-    "type_title": "Seite",
+    "title": "English",
+    "type_title": "Basisordner einer Sprache",
     "version": "current",
     "workflow_history": {
         "simple_publication_workflow": [
@@ -61,7 +43,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:41:47+00:00"
+                "time": "2024-03-07T10:39:59+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-07T10:39:59+00:00"
             }
         ]
     },
