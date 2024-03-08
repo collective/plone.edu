@@ -1,10 +1,9 @@
-import logging
-
 from plone.dexterity.content import Container
 from plone.supermodel.model import Schema
 from zope.interface import implementer
 
-from plone import api
+import logging
+
 
 logger = logging.getLogger(__name__)
 
