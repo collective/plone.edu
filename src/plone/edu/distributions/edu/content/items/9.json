@@ -66,7 +66,7 @@
     "last_name": "Richter",
     "layout": "view",
     "lock": {},
-    "modified": "2024-03-07T11:19:41+00:00",
+    "modified": "2024-03-08T19:30:33+00:00",
     "parent": {
         "@id": "/de/personen",
         "@type": "Document",
@@ -78,7 +78,7 @@
         "title": "Personen",
         "type_title": "Seite"
     },
-    "review_state": "private",
+    "review_state": "published",
     "roles": [
         "member"
     ],
@@ -94,6 +94,13 @@
                 "comments": "",
                 "review_state": "private",
                 "time": "2024-03-07T11:17:58+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-08T19:30:33+00:00"
             }
         ]
     },
