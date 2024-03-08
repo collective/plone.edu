@@ -1,32 +1,32 @@
 {
-    "@id": "/de/internationales",
+    "@id": "/de/organisation",
     "@type": "Document",
-    "UID": "3b1413db8c364d4a95ba0b408a2cc9dd",
+    "UID": "cd9af6eb8107428e99d1c8b45b036999",
     "allow_discussion": false,
     "blocks": {
-        "164ec4a8-bfef-4556-a139-1d88a6b44c6b": {
+        "74a49ad7-ef65-4984-b72d-9570a1c61a3f": {
             "@type": "title"
         },
-        "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e": {
+        "7d4a5f7e-912d-4aab-bb06-de1a602ed523": {
             "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "164ec4a8-bfef-4556-a139-1d88a6b44c6b",
-            "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e"
+            "74a49ad7-ef65-4984-b72d-9570a1c61a3f",
+            "7d4a5f7e-912d-4aab-bb06-de1a602ed523"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:42:05+00:00",
+    "created": "2024-03-07T10:43:29+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": null,
+    "effective": "2024-03-08T20:00:06",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "internationales",
+    "id": "organisation",
     "is_folderish": true,
     "language": "de",
     "layout": "document_view",
@@ -34,7 +34,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-07T10:42:20+00:00",
+    "modified": "2024-03-08T19:00:06+00:00",
     "parent": {
         "@id": "/de",
         "@type": "LRF",
@@ -48,10 +48,10 @@
     },
     "preview_caption": null,
     "preview_image": null,
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Internationales",
+    "title": "Organisation",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -61,7 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:42:05+00:00"
+                "time": "2024-03-07T10:43:29+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-08T19:00:06+00:00"
             }
         ]
     },
