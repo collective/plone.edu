@@ -62,7 +62,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-07T15:17:30+00:00",
+    "modified": "2024-03-07T15:27:53+00:00",
     "parent": {
         "@id": "/de",
         "@type": "LRF",
@@ -79,7 +79,7 @@
     "review_state": "private",
     "rights": "",
     "subjects": [],
-    "title": "Organisation",
+    "title": "Personen",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {

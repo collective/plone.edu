@@ -1,8 +1,12 @@
 {
-    "@id": "/en/assets",
-    "@type": "LIF",
-    "UID": "81adc123a7b64feba67cb0569d048982",
+    "@id": "/en",
+    "@type": "LRF",
+    "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
     "allow_discussion": false,
+    "blocks": {},
+    "blocks_layout": {
+        "items": []
+    },
     "contributors": [],
     "created": "2024-03-07T10:39:59+00:00",
     "creators": [
@@ -12,28 +16,25 @@
     "effective": null,
     "exclude_from_nav": true,
     "expires": null,
-    "id": "assets",
+    "id": "en",
     "is_folderish": true,
     "language": "de",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-07T10:39:59+00:00",
+    "modified": "2024-03-07T15:20:45+00:00",
     "parent": {
-        "@id": "/en",
-        "@type": "LRF",
-        "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
-        "description": "",
-        "image_field": null,
-        "image_scales": null,
-        "review_state": "published",
-        "title": "English",
-        "type_title": "Basisordner einer Sprache"
+        "@id": "/",
+        "@type": "Plone Site",
+        "UID": "76cb366201f940cba190a462d4432500",
+        "description": "A Plone Site",
+        "title": "Site",
+        "type_title": "Website"
     },
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Assets",
-    "type_title": "Sprachunabh\u00e4ngiger Ordner",
+    "title": "English",
+    "type_title": "Basisordner einer Sprache",
     "version": "current",
     "workflow_history": {
         "simple_publication_workflow": [
