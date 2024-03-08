@@ -57,6 +57,10 @@ setup(
         "plone.api",
         "zope.i18nmessageid",
         "collective.person",
+        "plone.app.multilingual",
+        "plone.dexterity",
+        "plone.supermodel",
+        "zope.interface",
     ],
     extras_require={
         "test": [
