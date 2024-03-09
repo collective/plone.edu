@@ -1,31 +1,40 @@
 {
-    "@id": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
-    "@type": "Image",
-    "UID": "be6a9522ab144738ae0d1f3d5328a5aa",
+    "@id": "/de/organisation/fakultaet-biologie/internationales",
+    "@type": "Document",
+    "UID": "e87d46c6e8294aa6af540c9c8bce550e",
     "allow_discussion": false,
+    "blocks": {
+        "66a776cb-aab3-42da-9dc6-1316a2cc833d": {
+            "@type": "slate"
+        },
+        "d4bdbc1f-0711-48a1-bc6a-d1120cf69720": {
+            "@type": "title"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "d4bdbc1f-0711-48a1-bc6a-d1120cf69720",
+            "66a776cb-aab3-42da-9dc6-1316a2cc833d"
+        ]
+    },
     "contributors": [],
-    "created": "2024-03-08T22:29:40+00:00",
+    "created": "2024-03-09T06:57:00+00:00",
     "creators": [
         "admin"
     ],
-    "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
-    "effective": null,
+    "description": "",
+    "effective": "2024-03-09T07:57:00",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
-    "image": {
-        "blob_path": "blobs/be6a9522ab144738ae0d1f3d5328a5aa-image/rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
-        "content-type": "image/jpeg",
-        "filename": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
-        "height": 4000,
-        "size": 3229020,
-        "width": 6000
+    "id": "internationales",
+    "is_folderish": true,
+    "language": "de",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
     },
-    "is_folderish": false,
-    "language": "",
-    "layout": "image_view",
-    "lock": {},
-    "modified": "2024-03-08T22:29:50+00:00",
+    "modified": "2024-03-09T06:57:04+00:00",
     "parent": {
         "@id": "/de/organisation/fakultaet-biologie",
         "@type": "Subsite",
@@ -37,12 +46,32 @@
         "title": "Fakult\u00e4t Biologie",
         "type_title": "Subsite"
     },
-    "review_state": null,
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
-    "type_title": "Bild",
+    "title": "Internationales",
+    "type_title": "Seite",
     "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-09T06:57:00+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-09T06:57:04+00:00"
+            }
+        ]
+    },
     "working_copy": null,
     "working_copy_of": null
 }
