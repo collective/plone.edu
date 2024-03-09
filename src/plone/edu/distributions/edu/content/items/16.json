@@ -1,89 +1,132 @@
 {
-    "@id": "/de/personen/fatima-malik",
-    "@type": "Person",
-    "UID": "a229b0e6b278478eadb4421a8bb6e680",
+    "@id": "/de/organisation/philosophische-fakultaet",
+    "@type": "Subsite",
+    "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
     "allow_discussion": false,
     "blocks": {
-        "0ec529f8-e162-4320-9a7e-80b0d2088666": {
-            "@layout": "2444e746-f496-4c3e-a3c7-f6eea28cad16",
-            "@type": "slate",
-            "block": "081189bb-b089-4485-b43e-784a84b591f0",
-            "plaintext": "",
-            "styles": {},
-            "value": [
-                {
-                    "children": [
-                        {
-                            "text": ""
-                        }
-                    ],
-                    "type": "p"
-                }
-            ]
+        "52a6b3ca-45aa-4b21-8e8b-9044872115f8": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "",
+            "image_field": "image",
+            "image_scales": {
+                "image": [
+                    {
+                        "content-type": "image/jpeg",
+                        "download": "@@images/image-5953-79e12b6b148fe85f7d320a1d21fd8c28.jpeg",
+                        "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+                        "height": 3969,
+                        "scales": {
+                            "great": {
+                                "download": "@@images/image-1200-90ee4374ca607c635585dbb359a86417.jpeg",
+                                "height": 800,
+                                "width": 1200
+                            },
+                            "huge": {
+                                "download": "@@images/image-1600-e3e1536d7226b6007d67456ae3b010b1.jpeg",
+                                "height": 1066,
+                                "width": 1600
+                            },
+                            "icon": {
+                                "download": "@@images/image-32-563d4d0e4b0894c288c3f82c30ebcd97.jpeg",
+                                "height": 21,
+                                "width": 32
+                            },
+                            "large": {
+                                "download": "@@images/image-800-a62f96ab40d169310ed3fb542c0a3ede.jpeg",
+                                "height": 533,
+                                "width": 800
+                            },
+                            "larger": {
+                                "download": "@@images/image-1000-74289e06160e0997863ebd335b375482.jpeg",
+                                "height": 666,
+                                "width": 1000
+                            },
+                            "mini": {
+                                "download": "@@images/image-200-d6e0e5efaa02cb13b9bba748e5fbd137.jpeg",
+                                "height": 133,
+                                "width": 200
+                            },
+                            "preview": {
+                                "download": "@@images/image-400-5365906d4b775ca4685b34a39322aaf2.jpeg",
+                                "height": 266,
+                                "width": 400
+                            },
+                            "teaser": {
+                                "download": "@@images/image-600-49a268ab586236ebeaf96f8dd2626918.jpeg",
+                                "height": 400,
+                                "width": 600
+                            },
+                            "thumb": {
+                                "download": "@@images/image-128-3b4c7cf0c03d540e0c7d67231461ef01.jpeg",
+                                "height": 85,
+                                "width": 128
+                            },
+                            "tile": {
+                                "download": "@@images/image-64-4d8e8d74bc083b050f3c0f172d6f1c97.jpeg",
+                                "height": 42,
+                                "width": 64
+                            }
+                        },
+                        "size": 3248581,
+                        "width": 5953
+                    }
+                ]
+            },
+            "size": "l",
+            "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+            "url": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg"
         },
-        "8d8e244b-49bc-49bc-8b60-6755e0e5d9a4": {
-            "@layout": "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
-            "@type": "title",
-            "block": "07d49f60-34c8-4121-9816-ffe48a488083",
-            "fixed": true,
-            "readOnly": true,
-            "required": true
+        "5a88dd92-783d-443f-ae09-b921177e09d7": {
+            "@type": "title"
         },
-        "9d5b2a50-2561-4c5e-a075-edc3b45e55e9": {
-            "@layout": "aad6de27-6178-4b09-b19a-56ad8c5829e4",
-            "@type": "description",
-            "block": "1fb60a4e-d412-406d-848e-179828c87e81",
-            "fixed": true,
-            "required": true
+        "e46bbbbb-8c2f-4a04-851e-b17f3b8db084": {
+            "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "8d8e244b-49bc-49bc-8b60-6755e0e5d9a4",
-            "9d5b2a50-2561-4c5e-a075-edc3b45e55e9",
-            "0ec529f8-e162-4320-9a7e-80b0d2088666"
+            "5a88dd92-783d-443f-ae09-b921177e09d7",
+            "52a6b3ca-45aa-4b21-8e8b-9044872115f8",
+            "e46bbbbb-8c2f-4a04-851e-b17f3b8db084"
         ]
     },
     "changeNote": "",
-    "contact_email": null,
-    "contact_phone": null,
-    "contact_website": null,
-    "created": "2024-03-07T11:15:01+00:00",
-    "description": "Prof. Dr. Fatima Malik",
-    "exclude_from_nav": false,
-    "first_name": "Fatima",
-    "id": "fatima-malik",
-    "image": {
-        "blob_path": "blobs/a229b0e6b278478eadb4421a8bb6e680-image/jake-nackos-IF9TK5Uy-KI-unsplash.jpg",
-        "content-type": "image/jpeg",
-        "filename": "jake-nackos-IF9TK5Uy-KI-unsplash.jpg",
-        "height": 5000,
-        "size": 1247886,
-        "width": 3974
-    },
-    "image_caption": null,
+    "contributors": [],
+    "created": "2024-03-08T19:47:54+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": "2024-03-08T20:47:00",
+    "expires": null,
+    "head_title": null,
+    "id": "philosophische-fakultaet",
     "is_folderish": true,
-    "last_name": "Malik",
     "layout": "view",
-    "lock": {},
-    "modified": "2024-03-08T19:30:27+00:00",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-08T22:35:20+00:00",
+    "nav_title": null,
     "parent": {
-        "@id": "/de/personen",
+        "@id": "/de/organisation",
         "@type": "Document",
-        "UID": "d0cb2798a5c3411389c625c244792f6f",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Personen",
+        "title": "Organisation",
         "type_title": "Seite"
     },
+    "preview_caption_link": null,
     "review_state": "published",
-    "roles": [
-        "member"
-    ],
-    "title": "Fatima Malik",
-    "type_title": "Person",
+    "rights": "",
+    "title": "Philosophische Fakult\u00e4t",
+    "type_title": "Subsite",
     "version": "current",
     "versioning_enabled": true,
     "workflow_history": {
@@ -93,14 +136,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T11:15:01+00:00"
+                "time": "2024-03-08T19:47:54+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:30:27+00:00"
+                "time": "2024-03-08T19:47:57+00:00"
             }
         ]
     },

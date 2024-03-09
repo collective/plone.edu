@@ -1,152 +1,48 @@
 {
-    "@id": "/de/organisation/fakultaet-mathematik",
-    "@type": "Subsite",
-    "UID": "f19746e11ed4487388cbf353a50b8a63",
+    "@id": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
+    "@type": "Image",
+    "UID": "be6a9522ab144738ae0d1f3d5328a5aa",
     "allow_discussion": false,
-    "blocks": {
-        "b33009db-9bda-4e11-bd4d-35b459a19cca": {
-            "@type": "slate"
-        },
-        "f551fdcb-4870-4637-8687-36d953cb0857": {
-            "@type": "image",
-            "align": "full",
-            "credit": {},
-            "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
-            "image_field": "image",
-            "image_scales": {
-                "image": [
-                    {
-                        "content-type": "image/jpeg",
-                        "download": "@@images/image-5060-43088f7278576e716b70f6132a2ea03e.jpeg",
-                        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-                        "height": 3358,
-                        "scales": {
-                            "great": {
-                                "download": "@@images/image-1200-fd9a68c504eedc01fd9f4f19d8b13fde.jpeg",
-                                "height": 796,
-                                "width": 1200
-                            },
-                            "huge": {
-                                "download": "@@images/image-1600-4f6f40655afb04ce2f05c2f59fae77fd.jpeg",
-                                "height": 1061,
-                                "width": 1600
-                            },
-                            "icon": {
-                                "download": "@@images/image-32-61e0225919d9ecb99542fa9bf4985d3a.jpeg",
-                                "height": 21,
-                                "width": 32
-                            },
-                            "large": {
-                                "download": "@@images/image-800-9384f4e9e28196c0d019fb497afc9e54.jpeg",
-                                "height": 530,
-                                "width": 800
-                            },
-                            "larger": {
-                                "download": "@@images/image-1000-2756d7e1a998b1341407f3c4c7cd54d5.jpeg",
-                                "height": 663,
-                                "width": 1000
-                            },
-                            "mini": {
-                                "download": "@@images/image-200-3ce2a1177f2ed60b7dade50def9e3f24.jpeg",
-                                "height": 132,
-                                "width": 200
-                            },
-                            "preview": {
-                                "download": "@@images/image-400-6f5b9ca8af89d4edf7824b0e1ddb4670.jpeg",
-                                "height": 265,
-                                "width": 400
-                            },
-                            "teaser": {
-                                "download": "@@images/image-600-a0ac98b181d28031e7840fc61a2b5bfa.jpeg",
-                                "height": 398,
-                                "width": 600
-                            },
-                            "thumb": {
-                                "download": "@@images/image-128-ce4b6d5ee99834931c2004cf00804b9f.jpeg",
-                                "height": 84,
-                                "width": 128
-                            },
-                            "tile": {
-                                "download": "@@images/image-64-74a1d98ea141f9f13e6813f6a6de11ff.jpeg",
-                                "height": 42,
-                                "width": 64
-                            }
-                        },
-                        "size": 2305255,
-                        "width": 5060
-                    }
-                ]
-            },
-            "size": "l",
-            "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-            "url": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg"
-        },
-        "fdf65224-068f-41b9-8cc8-85a355d0ee1d": {
-            "@type": "title"
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "fdf65224-068f-41b9-8cc8-85a355d0ee1d",
-            "f551fdcb-4870-4637-8687-36d953cb0857",
-            "b33009db-9bda-4e11-bd4d-35b459a19cca"
-        ]
-    },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:46:25+00:00",
+    "created": "2024-03-08T22:29:40+00:00",
     "creators": [
         "admin"
     ],
-    "description": "",
-    "effective": "2024-03-08T22:54:00",
+    "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
+    "effective": null,
+    "exclude_from_nav": false,
     "expires": null,
-    "head_title": null,
-    "id": "fakultaet-mathematik",
-    "is_folderish": true,
-    "layout": "view",
-    "lock": {
-        "locked": false,
-        "stealable": true
+    "id": "rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/be6a9522ab144738ae0d1f3d5328a5aa-image/rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+        "height": 4000,
+        "size": 3229020,
+        "width": 6000
     },
-    "modified": "2024-03-08T22:28:34+00:00",
-    "nav_title": null,
+    "is_folderish": false,
+    "language": "",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:29:50+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-biologie",
+        "@type": "Subsite",
+        "UID": "dfe27277e292413ca8039daf4e86f231",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Biologie",
+        "type_title": "Subsite"
     },
-    "preview_caption_link": null,
-    "review_state": "published",
+    "review_state": null,
     "rights": "",
-    "title": "Fakult\u00e4t Mathematik",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+    "type_title": "Bild",
     "version": "current",
-    "versioning_enabled": true,
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-08T19:46:25+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-08T21:54:39+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }

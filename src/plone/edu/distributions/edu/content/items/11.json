@@ -1,48 +1,77 @@
 {
-    "@id": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
-    "@type": "Image",
-    "UID": "60392dab4a7040758dc531b1b269fdcd",
+    "@id": "/de/organisation/fakultaet-biologie/studium",
+    "@type": "Document",
+    "UID": "e999412b13b546879ef53079b47d5e26",
     "allow_discussion": false,
+    "blocks": {
+        "ca2bc890-2cfa-418a-87fa-3d6513ad73de": {
+            "@type": "title"
+        },
+        "fd74eebe-088d-482f-bed5-984e8bac4efc": {
+            "@type": "slate"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "ca2bc890-2cfa-418a-87fa-3d6513ad73de",
+            "fd74eebe-088d-482f-bed5-984e8bac4efc"
+        ]
+    },
     "contributors": [],
-    "created": "2024-03-08T22:27:51+00:00",
+    "created": "2024-03-09T06:56:35+00:00",
     "creators": [
         "admin"
     ],
-    "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
-    "effective": null,
+    "description": "",
+    "effective": "2024-03-09T07:57:17",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
-    "image": {
-        "blob_path": "blobs/60392dab4a7040758dc531b1b269fdcd-image/jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-        "content-type": "image/jpeg",
-        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-        "height": 3358,
-        "size": 2305255,
-        "width": 5060
-    },
-    "is_folderish": false,
+    "id": "studium",
+    "is_folderish": true,
     "language": "",
-    "layout": "image_view",
-    "lock": {},
-    "modified": "2024-03-08T22:28:07+00:00",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-09T06:57:17+00:00",
     "parent": {
-        "@id": "/de/organisation/fakultaet-mathematik",
+        "@id": "/de/organisation/fakultaet-biologie",
         "@type": "Subsite",
-        "UID": "f19746e11ed4487388cbf353a50b8a63",
+        "UID": "dfe27277e292413ca8039daf4e86f231",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Fakult\u00e4t Mathematik",
+        "title": "Fakult\u00e4t Biologie",
         "type_title": "Subsite"
     },
-    "review_state": null,
+    "preview_caption": null,
+    "preview_image": null,
+    "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-    "type_title": "Bild",
+    "title": "Studium",
+    "type_title": "Seite",
     "version": "current",
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-09T06:56:35+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-09T06:57:17+00:00"
+            }
+        ]
+    },
     "working_copy": null,
     "working_copy_of": null
 }

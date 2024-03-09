@@ -1,10 +1,10 @@
 {
-    "@id": "/de/organisation/philosophische-fakultaet",
+    "@id": "/de/organisation/fakultaet-informatik",
     "@type": "Subsite",
-    "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+    "UID": "381f3d5686534d26ae59f48acb51f928",
     "allow_discussion": false,
     "blocks": {
-        "52a6b3ca-45aa-4b21-8e8b-9044872115f8": {
+        "1fbbdc7d-8135-402e-8daf-2352d9fab0ea": {
             "@type": "image",
             "align": "full",
             "credit": {},
@@ -14,102 +14,102 @@
                 "image": [
                     {
                         "content-type": "image/jpeg",
-                        "download": "@@images/image-5953-79e12b6b148fe85f7d320a1d21fd8c28.jpeg",
-                        "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-                        "height": 3969,
+                        "download": "@@images/image-6500-a74037c122364f0419dbe8f7c7a40e0f.jpeg",
+                        "filename": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+                        "height": 4800,
                         "scales": {
                             "great": {
-                                "download": "@@images/image-1200-90ee4374ca607c635585dbb359a86417.jpeg",
-                                "height": 800,
+                                "download": "@@images/image-1200-1b54f04c37063303dc5887536f6ac096.jpeg",
+                                "height": 886,
                                 "width": 1200
                             },
                             "huge": {
-                                "download": "@@images/image-1600-e3e1536d7226b6007d67456ae3b010b1.jpeg",
-                                "height": 1066,
+                                "download": "@@images/image-1600-db14150b25da0855108a376eccb5f0c8.jpeg",
+                                "height": 1181,
                                 "width": 1600
                             },
                             "icon": {
-                                "download": "@@images/image-32-563d4d0e4b0894c288c3f82c30ebcd97.jpeg",
-                                "height": 21,
+                                "download": "@@images/image-32-a2e9e95891fbd1357d3848a7a09ab2f2.jpeg",
+                                "height": 23,
                                 "width": 32
                             },
                             "large": {
-                                "download": "@@images/image-800-a62f96ab40d169310ed3fb542c0a3ede.jpeg",
-                                "height": 533,
+                                "download": "@@images/image-800-06e43c7914569507b3ab691accea0629.jpeg",
+                                "height": 590,
                                 "width": 800
                             },
                             "larger": {
-                                "download": "@@images/image-1000-74289e06160e0997863ebd335b375482.jpeg",
-                                "height": 666,
+                                "download": "@@images/image-1000-f16f7a6c4e0dfa852a25dacc6f338e0e.jpeg",
+                                "height": 738,
                                 "width": 1000
                             },
                             "mini": {
-                                "download": "@@images/image-200-d6e0e5efaa02cb13b9bba748e5fbd137.jpeg",
-                                "height": 133,
+                                "download": "@@images/image-200-3bf172b4f13b5664f9643efdf105e6a9.jpeg",
+                                "height": 147,
                                 "width": 200
                             },
                             "preview": {
-                                "download": "@@images/image-400-5365906d4b775ca4685b34a39322aaf2.jpeg",
-                                "height": 266,
+                                "download": "@@images/image-400-3a32da579ec08ded74e5bd47025bf13c.jpeg",
+                                "height": 295,
                                 "width": 400
                             },
                             "teaser": {
-                                "download": "@@images/image-600-49a268ab586236ebeaf96f8dd2626918.jpeg",
-                                "height": 400,
+                                "download": "@@images/image-600-f028e366741ef4eddc4427184e5cc512.jpeg",
+                                "height": 443,
                                 "width": 600
                             },
                             "thumb": {
-                                "download": "@@images/image-128-3b4c7cf0c03d540e0c7d67231461ef01.jpeg",
-                                "height": 85,
+                                "download": "@@images/image-128-8cc0ea553fd00be26d1db9e490b3a390.jpeg",
+                                "height": 94,
                                 "width": 128
                             },
                             "tile": {
-                                "download": "@@images/image-64-4d8e8d74bc083b050f3c0f172d6f1c97.jpeg",
-                                "height": 42,
+                                "download": "@@images/image-64-2207c552d8e97ad1cfa581148e20e806.jpeg",
+                                "height": 47,
                                 "width": 64
                             }
                         },
-                        "size": 3248581,
-                        "width": 5953
+                        "size": 2359744,
+                        "width": 6500
                     }
                 ]
             },
             "size": "l",
-            "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-            "url": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg"
+            "title": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+            "url": "/de/organisation/fakultaet-informatik/getty-images-d6p8fnyzxx4-unsplash-1.jpg"
         },
-        "5a88dd92-783d-443f-ae09-b921177e09d7": {
-            "@type": "title"
-        },
-        "e46bbbbb-8c2f-4a04-851e-b17f3b8db084": {
+        "c2babdd9-48d3-4b4b-bf17-6fbdeac52506": {
             "@type": "slate"
+        },
+        "e3707a58-e364-4196-984a-806cef80476a": {
+            "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "5a88dd92-783d-443f-ae09-b921177e09d7",
-            "52a6b3ca-45aa-4b21-8e8b-9044872115f8",
-            "e46bbbbb-8c2f-4a04-851e-b17f3b8db084"
+            "e3707a58-e364-4196-984a-806cef80476a",
+            "1fbbdc7d-8135-402e-8daf-2352d9fab0ea",
+            "c2babdd9-48d3-4b4b-bf17-6fbdeac52506"
         ]
     },
     "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:47:54+00:00",
+    "created": "2024-03-08T19:48:14+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:47:00",
+    "effective": "2024-03-08T20:48:00",
     "expires": null,
     "head_title": null,
-    "id": "philosophische-fakultaet",
+    "id": "fakultaet-informatik",
     "is_folderish": true,
     "layout": "view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T22:35:20+00:00",
+    "modified": "2024-03-08T22:32:47+00:00",
     "nav_title": null,
     "parent": {
         "@id": "/de/organisation",
@@ -125,7 +125,7 @@
     "preview_caption_link": null,
     "review_state": "published",
     "rights": "",
-    "title": "Philosophische Fakult\u00e4t",
+    "title": "Fakult\u00e4t Informatik",
     "type_title": "Subsite",
     "version": "current",
     "versioning_enabled": true,
@@ -136,14 +136,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-08T19:47:54+00:00"
+                "time": "2024-03-08T19:48:14+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:47:57+00:00"
+                "time": "2024-03-08T19:48:17+00:00"
             }
         ]
     },
