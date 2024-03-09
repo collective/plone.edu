@@ -1,98 +1,48 @@
 {
-    "@id": "/de/personen/mueller-anna",
-    "@type": "Person",
-    "UID": "43e3cb2b40734b04a51fbc537fecb64d",
+    "@id": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
+    "@type": "Image",
+    "UID": "60392dab4a7040758dc531b1b269fdcd",
     "allow_discussion": false,
-    "blocks": {
-        "564561d9-59b8-4edd-af57-3103e0d416dc": {
-            "@type": "title"
-        },
-        "67c8cfb1-aeee-4cd5-915c-d027cfb40fa3": {
-            "@type": "description"
-        },
-        "6e047084-cdac-4d96-a94f-b91b7526f754": {
-            "@type": "slate",
-            "plaintext": "",
-            "styles": {},
-            "value": [
-                {
-                    "children": [
-                        {
-                            "text": ""
-                        }
-                    ],
-                    "type": "p"
-                }
-            ]
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "564561d9-59b8-4edd-af57-3103e0d416dc",
-            "67c8cfb1-aeee-4cd5-915c-d027cfb40fa3",
-            "6e047084-cdac-4d96-a94f-b91b7526f754"
-        ]
-    },
-    "changeNote": "",
-    "contact_email": null,
-    "contact_phone": null,
-    "contact_website": null,
-    "created": "2024-03-07T12:10:38+00:00",
-    "description": "Dr. Anna M\u00fcller",
+    "contributors": [],
+    "created": "2024-03-08T22:27:51+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
+    "effective": null,
     "exclude_from_nav": false,
-    "first_name": "M\u00fcller",
-    "id": "mueller-anna",
+    "expires": null,
+    "id": "jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
     "image": {
-        "blob_path": "blobs/43e3cb2b40734b04a51fbc537fecb64d-image/christopher-campbell-rDEOVtE7vOs-unsplash (2).jpg",
+        "blob_path": "blobs/60392dab4a7040758dc531b1b269fdcd-image/jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
         "content-type": "image/jpeg",
-        "filename": "christopher-campbell-rDEOVtE7vOs-unsplash (2).jpg",
-        "height": 3456,
-        "size": 1252174,
-        "width": 5184
+        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+        "height": 3358,
+        "size": 2305255,
+        "width": 5060
     },
-    "image_caption": null,
-    "is_folderish": true,
-    "last_name": "Anna",
-    "layout": "view",
+    "is_folderish": false,
+    "language": "",
+    "layout": "image_view",
     "lock": {},
-    "modified": "2024-03-08T19:30:44+00:00",
+    "modified": "2024-03-08T22:28:07+00:00",
     "parent": {
-        "@id": "/de/personen",
-        "@type": "Document",
-        "UID": "d0cb2798a5c3411389c625c244792f6f",
+        "@id": "/de/organisation/fakultaet-mathematik",
+        "@type": "Subsite",
+        "UID": "f19746e11ed4487388cbf353a50b8a63",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Personen",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Mathematik",
+        "type_title": "Subsite"
     },
-    "review_state": "published",
-    "roles": [
-        "member"
-    ],
-    "title": "M\u00fcller Anna",
-    "type_title": "Person",
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+    "type_title": "Bild",
     "version": "current",
-    "versioning_enabled": true,
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-07T12:10:38+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-08T19:30:44+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }

@@ -1,64 +1,59 @@
 {
-    "@id": "/de/organisation/fakultaet-mathematik",
-    "@type": "Subsite",
-    "UID": "f19746e11ed4487388cbf353a50b8a63",
+    "@id": "/de/organisation/fakultaet-biologie/forschung",
+    "@type": "Document",
+    "UID": "10200b859f0344f599017f2da67f47d0",
     "allow_discussion": false,
     "blocks": {
-        "f551fdcb-4870-4637-8687-36d953cb0857": {
+        "1b555cda-9de0-4265-8141-f2209296fc84": {
             "@type": "slate"
         },
-        "fdf65224-068f-41b9-8cc8-85a355d0ee1d": {
+        "61812896-6e08-45c3-aafb-e155a31e4abf": {
             "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "fdf65224-068f-41b9-8cc8-85a355d0ee1d",
-            "f551fdcb-4870-4637-8687-36d953cb0857"
+            "61812896-6e08-45c3-aafb-e155a31e4abf",
+            "1b555cda-9de0-4265-8141-f2209296fc84"
         ]
     },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:46:25+00:00",
+    "created": "2024-03-09T06:56:41+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T22:54:39",
+    "effective": "2024-03-09T07:57:13",
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "fakultaet-mathematik",
+    "id": "forschung",
     "is_folderish": true,
-    "layout": "view",
+    "language": "",
+    "layout": "document_view",
     "lock": {
-        "created": "2024-03-08T22:24:34+00:00",
-        "creator": "admin",
-        "creator_name": "admin",
-        "creator_url": "http://localhost:8080/Plone/author/admin",
-        "locked": true,
-        "name": "plone.locking.stealable",
-        "stealable": true,
-        "time": 1709936674.298274,
-        "timeout": 600,
-        "token": "0.9128804802321546-0.5164069321329925-00105A989226:1709936674.298"
+        "locked": false,
+        "stealable": true
     },
-    "modified": "2024-03-08T21:54:39+00:00",
+    "modified": "2024-03-09T06:57:13+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-biologie",
+        "@type": "Subsite",
+        "UID": "dfe27277e292413ca8039daf4e86f231",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Biologie",
+        "type_title": "Subsite"
     },
+    "preview_caption": null,
+    "preview_image": null,
     "review_state": "published",
     "rights": "",
-    "title": "Fakult\u00e4t Mathematik",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "Forschung",
+    "type_title": "Seite",
     "version": "current",
-    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -66,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-08T19:46:25+00:00"
+                "time": "2024-03-09T06:56:41+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T21:54:39+00:00"
+                "time": "2024-03-09T06:57:13+00:00"
             }
         ]
     },

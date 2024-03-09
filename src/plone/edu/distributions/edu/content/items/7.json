@@ -1,56 +1,59 @@
 {
-    "@id": "/de/organisation/fakultaet-informatik",
-    "@type": "Subsite",
-    "UID": "381f3d5686534d26ae59f48acb51f928",
+    "@id": "/de/organisation/fakultaet-biologie/die-fakultaet",
+    "@type": "Document",
+    "UID": "7d2a1ae0952748a198c638840df94110",
     "allow_discussion": false,
     "blocks": {
-        "1fbbdc7d-8135-402e-8daf-2352d9fab0ea": {
+        "0d98e8e1-430a-494f-be08-972863f1c4f1": {
             "@type": "slate"
         },
-        "e3707a58-e364-4196-984a-806cef80476a": {
+        "354bb08e-1cf6-4180-99f0-794342a42dfd": {
             "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "e3707a58-e364-4196-984a-806cef80476a",
-            "1fbbdc7d-8135-402e-8daf-2352d9fab0ea"
+            "354bb08e-1cf6-4180-99f0-794342a42dfd",
+            "0d98e8e1-430a-494f-be08-972863f1c4f1"
         ]
     },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:48:14+00:00",
+    "created": "2024-03-09T06:56:21+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:48:17",
+    "effective": "2024-03-09T07:57:21",
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "fakultaet-informatik",
+    "id": "die-fakultaet",
     "is_folderish": true,
-    "layout": "view",
+    "language": "",
+    "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T19:48:17+00:00",
+    "modified": "2024-03-09T06:57:21+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-biologie",
+        "@type": "Subsite",
+        "UID": "dfe27277e292413ca8039daf4e86f231",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Biologie",
+        "type_title": "Subsite"
     },
+    "preview_caption": null,
+    "preview_image": null,
     "review_state": "published",
     "rights": "",
-    "title": "Fakult\u00e4t Informatik",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "Die Fakult\u00e4t",
+    "type_title": "Seite",
     "version": "current",
-    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -58,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-08T19:48:14+00:00"
+                "time": "2024-03-09T06:56:21+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:48:17+00:00"
+                "time": "2024-03-09T06:57:21+00:00"
             }
         ]
     },

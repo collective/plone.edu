@@ -7,14 +7,89 @@
         "22326295-9b61-4602-8aa4-bc42f6902ae3": {
             "@type": "title"
         },
-        "64321d98-c526-4950-8a6e-be5193989af0": {
+        "3838fe75-3be3-4815-bf58-e2f84a12ec2c": {
             "@type": "slate"
+        },
+        "64321d98-c526-4950-8a6e-be5193989af0": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
+            "image_field": "image",
+            "image_scales": {
+                "image": [
+                    {
+                        "content-type": "image/jpeg",
+                        "download": "@@images/image-6000-af982c6089a8559bdeb7168882011c09.jpeg",
+                        "filename": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+                        "height": 4000,
+                        "scales": {
+                            "great": {
+                                "download": "@@images/image-1200-0d9231d39c41de073e1e3a9661821a2a.jpeg",
+                                "height": 800,
+                                "width": 1200
+                            },
+                            "huge": {
+                                "download": "@@images/image-1600-00d3c9c36d98764e39b03061545ada45.jpeg",
+                                "height": 1066,
+                                "width": 1600
+                            },
+                            "icon": {
+                                "download": "@@images/image-32-b2a85459e391eed7e57b2a778db3d2c5.jpeg",
+                                "height": 21,
+                                "width": 32
+                            },
+                            "large": {
+                                "download": "@@images/image-800-39a5da37d5e476e413ccb67bf77bf962.jpeg",
+                                "height": 533,
+                                "width": 800
+                            },
+                            "larger": {
+                                "download": "@@images/image-1000-b20174b064539351c78c3e1d86484c84.jpeg",
+                                "height": 666,
+                                "width": 1000
+                            },
+                            "mini": {
+                                "download": "@@images/image-200-cd97ab9d19099f4b412003095ff12f76.jpeg",
+                                "height": 133,
+                                "width": 200
+                            },
+                            "preview": {
+                                "download": "@@images/image-400-8814589b6d100f39c9ec170d7183c486.jpeg",
+                                "height": 266,
+                                "width": 400
+                            },
+                            "teaser": {
+                                "download": "@@images/image-600-a8711e4577f96c7d7c94aeebdd2aa930.jpeg",
+                                "height": 400,
+                                "width": 600
+                            },
+                            "thumb": {
+                                "download": "@@images/image-128-a6e13b788a0d1a8a6f599d7abfe13bef.jpeg",
+                                "height": 85,
+                                "width": 128
+                            },
+                            "tile": {
+                                "download": "@@images/image-64-b6aec07038a49aa0aaa164f738b65b5a.jpeg",
+                                "height": 42,
+                                "width": 64
+                            }
+                        },
+                        "size": 3229020,
+                        "width": 6000
+                    }
+                ]
+            },
+            "size": "l",
+            "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+            "url": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg"
         }
     },
     "blocks_layout": {
         "items": [
             "22326295-9b61-4602-8aa4-bc42f6902ae3",
-            "64321d98-c526-4950-8a6e-be5193989af0"
+            "64321d98-c526-4950-8a6e-be5193989af0",
+            "3838fe75-3be3-4815-bf58-e2f84a12ec2c"
         ]
     },
     "changeNote": "",
@@ -24,8 +99,9 @@
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:47:24",
+    "effective": "2024-03-08T20:47:00",
     "expires": null,
+    "head_title": null,
     "id": "fakultaet-biologie",
     "is_folderish": true,
     "layout": "view",
@@ -33,7 +109,8 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T19:47:24+00:00",
+    "modified": "2024-03-09T06:57:00+00:00",
+    "nav_title": null,
     "parent": {
         "@id": "/de/organisation",
         "@type": "Document",
@@ -45,6 +122,7 @@
         "title": "Organisation",
         "type_title": "Seite"
     },
+    "preview_caption_link": null,
     "review_state": "published",
     "rights": "",
     "title": "Fakult\u00e4t Biologie",

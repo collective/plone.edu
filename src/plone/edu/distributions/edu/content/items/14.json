@@ -1,89 +1,132 @@
 {
-    "@id": "/de/personen/lea-wagner",
-    "@type": "Person",
-    "UID": "104a853a926148a1841b700442fefb95",
+    "@id": "/de/organisation/fakultaet-mathematik",
+    "@type": "Subsite",
+    "UID": "f19746e11ed4487388cbf353a50b8a63",
     "allow_discussion": false,
     "blocks": {
-        "03fc4a6f-4b13-4dd3-8f14-7a77ac64298a": {
-            "@layout": "2444e746-f496-4c3e-a3c7-f6eea28cad16",
-            "@type": "slate",
-            "block": "42cf7b20-214e-498d-899a-47d2fb25c8ec",
-            "plaintext": "",
-            "styles": {},
-            "value": [
-                {
-                    "children": [
-                        {
-                            "text": ""
-                        }
-                    ],
-                    "type": "p"
-                }
-            ]
+        "b33009db-9bda-4e11-bd4d-35b459a19cca": {
+            "@type": "slate"
         },
-        "6fb5c11e-25bb-4ee0-a159-9a9dd6ec18ff": {
-            "@layout": "4ffbd230-2a04-44bb-89f4-6d9e0b71e0c5",
-            "@type": "title",
-            "block": "0204b240-1b32-4bc9-890f-4df7a1d517ef",
-            "fixed": true,
-            "readOnly": true,
-            "required": true
+        "f551fdcb-4870-4637-8687-36d953cb0857": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
+            "image_field": "image",
+            "image_scales": {
+                "image": [
+                    {
+                        "content-type": "image/jpeg",
+                        "download": "@@images/image-5060-43088f7278576e716b70f6132a2ea03e.jpeg",
+                        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+                        "height": 3358,
+                        "scales": {
+                            "great": {
+                                "download": "@@images/image-1200-fd9a68c504eedc01fd9f4f19d8b13fde.jpeg",
+                                "height": 796,
+                                "width": 1200
+                            },
+                            "huge": {
+                                "download": "@@images/image-1600-4f6f40655afb04ce2f05c2f59fae77fd.jpeg",
+                                "height": 1061,
+                                "width": 1600
+                            },
+                            "icon": {
+                                "download": "@@images/image-32-61e0225919d9ecb99542fa9bf4985d3a.jpeg",
+                                "height": 21,
+                                "width": 32
+                            },
+                            "large": {
+                                "download": "@@images/image-800-9384f4e9e28196c0d019fb497afc9e54.jpeg",
+                                "height": 530,
+                                "width": 800
+                            },
+                            "larger": {
+                                "download": "@@images/image-1000-2756d7e1a998b1341407f3c4c7cd54d5.jpeg",
+                                "height": 663,
+                                "width": 1000
+                            },
+                            "mini": {
+                                "download": "@@images/image-200-3ce2a1177f2ed60b7dade50def9e3f24.jpeg",
+                                "height": 132,
+                                "width": 200
+                            },
+                            "preview": {
+                                "download": "@@images/image-400-6f5b9ca8af89d4edf7824b0e1ddb4670.jpeg",
+                                "height": 265,
+                                "width": 400
+                            },
+                            "teaser": {
+                                "download": "@@images/image-600-a0ac98b181d28031e7840fc61a2b5bfa.jpeg",
+                                "height": 398,
+                                "width": 600
+                            },
+                            "thumb": {
+                                "download": "@@images/image-128-ce4b6d5ee99834931c2004cf00804b9f.jpeg",
+                                "height": 84,
+                                "width": 128
+                            },
+                            "tile": {
+                                "download": "@@images/image-64-74a1d98ea141f9f13e6813f6a6de11ff.jpeg",
+                                "height": 42,
+                                "width": 64
+                            }
+                        },
+                        "size": 2305255,
+                        "width": 5060
+                    }
+                ]
+            },
+            "size": "l",
+            "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+            "url": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg"
         },
-        "c3befa81-5b6e-4d99-8b3b-765b7c638211": {
-            "@layout": "aad6de27-6178-4b09-b19a-56ad8c5829e4",
-            "@type": "description",
-            "block": "6a732df4-54da-4ded-85ee-bd867dd376d8",
-            "fixed": true,
-            "required": true
+        "fdf65224-068f-41b9-8cc8-85a355d0ee1d": {
+            "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "6fb5c11e-25bb-4ee0-a159-9a9dd6ec18ff",
-            "c3befa81-5b6e-4d99-8b3b-765b7c638211",
-            "03fc4a6f-4b13-4dd3-8f14-7a77ac64298a"
+            "fdf65224-068f-41b9-8cc8-85a355d0ee1d",
+            "f551fdcb-4870-4637-8687-36d953cb0857",
+            "b33009db-9bda-4e11-bd4d-35b459a19cca"
         ]
     },
     "changeNote": "",
-    "contact_email": null,
-    "contact_phone": null,
-    "contact_website": null,
-    "created": "2024-03-07T15:23:11+00:00",
-    "description": "Prof. Dr. Lea Wagner",
-    "exclude_from_nav": false,
-    "first_name": "Lea",
-    "id": "lea-wagner",
-    "image": {
-        "blob_path": "blobs/104a853a926148a1841b700442fefb95-image/edward-cisneros-_H6wpor9mjs-unsplash.jpg",
-        "content-type": "image/jpeg",
-        "filename": "edward-cisneros-_H6wpor9mjs-unsplash.jpg",
-        "height": 4480,
-        "size": 4248817,
-        "width": 6720
-    },
-    "image_caption": null,
+    "contributors": [],
+    "created": "2024-03-08T19:46:25+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": "2024-03-08T22:54:00",
+    "expires": null,
+    "head_title": null,
+    "id": "fakultaet-mathematik",
     "is_folderish": true,
-    "last_name": "Wagner",
     "layout": "view",
-    "lock": {},
-    "modified": "2024-03-08T19:30:39+00:00",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-08T22:28:34+00:00",
+    "nav_title": null,
     "parent": {
-        "@id": "/de/personen",
+        "@id": "/de/organisation",
         "@type": "Document",
-        "UID": "d0cb2798a5c3411389c625c244792f6f",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Personen",
+        "title": "Organisation",
         "type_title": "Seite"
     },
+    "preview_caption_link": null,
     "review_state": "published",
-    "roles": [
-        "member"
-    ],
-    "title": "Lea Wagner",
-    "type_title": "Person",
+    "rights": "",
+    "title": "Fakult\u00e4t Mathematik",
+    "type_title": "Subsite",
     "version": "current",
     "versioning_enabled": true,
     "workflow_history": {
@@ -93,14 +136,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T15:23:11+00:00"
+                "time": "2024-03-08T19:46:25+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:30:39+00:00"
+                "time": "2024-03-08T21:54:39+00:00"
             }
         ]
     },

@@ -1,0 +1,22 @@
+[
+    {
+        "from_uuid": "f19746e11ed4487388cbf353a50b8a63",
+        "relationship": "preview_image_link",
+        "to_uuid": "60392dab4a7040758dc531b1b269fdcd"
+    },
+    {
+        "from_uuid": "dfe27277e292413ca8039daf4e86f231",
+        "relationship": "preview_image_link",
+        "to_uuid": "be6a9522ab144738ae0d1f3d5328a5aa"
+    },
+    {
+        "from_uuid": "381f3d5686534d26ae59f48acb51f928",
+        "relationship": "preview_image_link",
+        "to_uuid": "7bbab45447bf4013b968473a73e07cc4"
+    },
+    {
+        "from_uuid": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+        "relationship": "preview_image_link",
+        "to_uuid": "7470b360ad9b4d5eb2923f5671294415"
+    }
+]

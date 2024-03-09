@@ -1,41 +1,52 @@
 {
-    "@id": "/de/organisation",
+    "@id": "/de/personen",
     "@type": "Document",
-    "UID": "cd9af6eb8107428e99d1c8b45b036999",
+    "UID": "d0cb2798a5c3411389c625c244792f6f",
     "allow_discussion": false,
     "blocks": {
-        "74a49ad7-ef65-4984-b72d-9570a1c61a3f": {
-            "@type": "title"
-        },
-        "7d4a5f7e-912d-4aab-bb06-de1a602ed523": {
-            "@type": "listing",
-            "headlineTag": "h2",
-            "querystring": {
+        "03aaf726-9e7f-4645-97af-29a38f2b302f": {
+            "@type": "search",
+            "listingBodyTemplate": "summary",
+            "query": {
                 "query": [
                     {
-                        "i": "path",
-                        "o": "plone.app.querystring.operation.string.relativePath",
-                        "v": ".::1"
+                        "i": "portal_type",
+                        "o": "plone.app.querystring.operation.selection.any",
+                        "v": [
+                            "Person"
+                        ]
                     }
                 ],
+                "sort_on": "sortable_title",
                 "sort_order": "ascending"
             },
-            "styles": {},
-            "variation": "grid"
+            "showSearchInput": true,
+            "showSortOn": true,
+            "showTotalResults": true
         },
-        "8657607c-e402-4af3-9710-c30f26bf1508": {
+        "74d2fa11-f193-4038-b93e-c07206e9dd5c": {
             "@type": "slate"
+        },
+        "acd72e4e-bd91-4f8f-8544-1aa892db8750": {
+            "@type": "title"
+        },
+        "undefined": {
+            "@type": "search",
+            "listingBodyTemplate": "default",
+            "showSearchInput": true,
+            "showSortOn": true,
+            "showTotalResults": true
         }
     },
     "blocks_layout": {
         "items": [
-            "74a49ad7-ef65-4984-b72d-9570a1c61a3f",
-            "7d4a5f7e-912d-4aab-bb06-de1a602ed523",
-            "8657607c-e402-4af3-9710-c30f26bf1508"
+            "acd72e4e-bd91-4f8f-8544-1aa892db8750",
+            "03aaf726-9e7f-4645-97af-29a38f2b302f",
+            "74d2fa11-f193-4038-b93e-c07206e9dd5c"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:43:29+00:00",
+    "created": "2024-03-07T11:11:27+00:00",
     "creators": [
         "admin"
     ],
@@ -43,7 +54,7 @@
     "effective": "2024-03-08T20:00:00",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "organisation",
+    "id": "personen",
     "is_folderish": true,
     "language": "de",
     "layout": "document_view",
@@ -68,7 +79,7 @@
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Organisation",
+    "title": "Personen",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -78,14 +89,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:43:29+00:00"
+                "time": "2024-03-07T10:44:29+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:00:06+00:00"
+                "time": "2024-03-08T19:00:10+00:00"
             }
         ]
     },

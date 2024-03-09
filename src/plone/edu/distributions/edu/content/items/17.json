@@ -1,59 +1,48 @@
 {
-    "@id": "/en",
-    "@type": "LRF",
-    "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
+    "@id": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
+    "@type": "Image",
+    "UID": "7470b360ad9b4d5eb2923f5671294415",
     "allow_discussion": false,
-    "blocks": {},
-    "blocks_layout": {
-        "items": []
-    },
     "contributors": [],
-    "created": "2024-03-07T10:39:59+00:00",
+    "created": "2024-03-08T22:35:01+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
     "effective": null,
-    "exclude_from_nav": true,
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "en",
-    "is_folderish": true,
-    "language": "de",
-    "layout": "folder_listing",
-    "lock": {},
-    "modified": "2024-03-07T17:00:37+00:00",
-    "parent": {
-        "@id": "/",
-        "@type": "Plone Site",
-        "UID": "85a31592e0af48f386864432792ff304",
-        "description": "A Plone Site",
-        "title": "Site",
-        "type_title": "Website"
+    "id": "giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/7470b360ad9b4d5eb2923f5671294415-image/giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+        "height": 3969,
+        "size": 3248581,
+        "width": 5953
     },
-    "review_state": "published",
+    "is_folderish": false,
+    "language": "",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:35:01+00:00",
+    "parent": {
+        "@id": "/de/organisation/philosophische-fakultaet",
+        "@type": "Subsite",
+        "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Philosophische Fakult\u00e4t",
+        "type_title": "Subsite"
+    },
+    "review_state": null,
     "rights": "",
     "subjects": [],
-    "title": "English",
-    "type_title": "Basisordner einer Sprache",
+    "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+    "type_title": "Bild",
     "version": "current",
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-07T10:39:59+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-07T10:39:59+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }

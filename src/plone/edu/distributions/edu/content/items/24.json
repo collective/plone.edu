@@ -1,57 +1,57 @@
 {
-    "@id": "/de/organisation/fakultaet-biologie/internationales",
+    "@id": "/de/studium",
     "@type": "Document",
-    "UID": "e87d46c6e8294aa6af540c9c8bce550e",
+    "UID": "dac45303d5314f8d929002849b1934e3",
     "allow_discussion": false,
     "blocks": {
-        "66a776cb-aab3-42da-9dc6-1316a2cc833d": {
+        "7a73d006-c222-490d-b059-391cf19e7d91": {
             "@type": "slate"
         },
-        "d4bdbc1f-0711-48a1-bc6a-d1120cf69720": {
+        "ccab8cf1-665c-4200-9c8e-22b7bf0937f7": {
             "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "d4bdbc1f-0711-48a1-bc6a-d1120cf69720",
-            "66a776cb-aab3-42da-9dc6-1316a2cc833d"
+            "ccab8cf1-665c-4200-9c8e-22b7bf0937f7",
+            "7a73d006-c222-490d-b059-391cf19e7d91"
         ]
     },
     "contributors": [],
-    "created": "2024-03-09T06:57:00+00:00",
+    "created": "2024-03-07T10:41:47+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-09T07:57:04",
+    "effective": "2024-03-08T19:59:00",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "internationales",
+    "id": "studium",
     "is_folderish": true,
-    "language": "",
+    "language": "de",
     "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-09T06:57:04+00:00",
+    "modified": "2024-03-08T18:59:49+00:00",
     "parent": {
-        "@id": "/de/organisation/fakultaet-biologie",
-        "@type": "Subsite",
-        "UID": "dfe27277e292413ca8039daf4e86f231",
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Fakult\u00e4t Biologie",
-        "type_title": "Subsite"
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
     },
     "preview_caption": null,
     "preview_image": null,
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Internationales",
+    "title": "Studium",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -61,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-09T06:57:00+00:00"
+                "time": "2024-03-07T10:41:47+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-09T06:57:04+00:00"
+                "time": "2024-03-08T18:59:49+00:00"
             }
         ]
     },
