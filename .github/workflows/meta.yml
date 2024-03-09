@@ -37,18 +37,17 @@ jobs:
   circular:
     uses: plone/meta/.github/workflows/circular.yml@main
 
-##
-# To modify the list of default jobs being created add in .meta.toml:
-# [github]
-# jobs = [
-#    "qa",
-#    "test",
-#    "coverage",
-#    "dependencies",
-#    "release_ready",
+# Modify the list of default jobs being created add in .meta.toml:
+[github]
+jobs = [
+   "qa",
+   "test",
+   "coverage",
+   "dependencies",
+   "release_ready",
 #    "circular",
-#    ]
-##
+   ]
+
 
 ##
 # To request that some OS level dependencies get installed
