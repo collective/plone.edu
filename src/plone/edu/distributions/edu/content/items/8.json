@@ -24,16 +24,24 @@
         "admin"
     ],
     "description": "",
-    "effective": null,
+    "effective": "2024-03-08T22:54:39",
     "expires": null,
     "id": "fakultaet-mathematik",
     "is_folderish": true,
     "layout": "view",
     "lock": {
-        "locked": false,
-        "stealable": true
+        "created": "2024-03-08T22:24:34+00:00",
+        "creator": "admin",
+        "creator_name": "admin",
+        "creator_url": "http://localhost:8080/Plone/author/admin",
+        "locked": true,
+        "name": "plone.locking.stealable",
+        "stealable": true,
+        "time": 1709936674.298274,
+        "timeout": 600,
+        "token": "0.9128804802321546-0.5164069321329925-00105A989226:1709936674.298"
     },
-    "modified": "2024-03-08T19:46:25+00:00",
+    "modified": "2024-03-08T21:54:39+00:00",
     "parent": {
         "@id": "/de/organisation",
         "@type": "Document",
@@ -45,7 +53,7 @@
         "title": "Organisation",
         "type_title": "Seite"
     },
-    "review_state": "private",
+    "review_state": "published",
     "rights": "",
     "title": "Fakult\u00e4t Mathematik",
     "type_title": "Subsite",
@@ -59,6 +67,13 @@
                 "comments": "",
                 "review_state": "private",
                 "time": "2024-03-08T19:46:25+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-08T21:54:39+00:00"
             }
         ]
     },
