@@ -13,6 +13,15 @@ dependencies_mappings = [
     "Plone = ['Products.CMFPlone', 'Products.CMFCore', 'Products.GenericSetup', 'plone.app.multilingual']",
     ]
 
+[github]
+ref = "1.0.0"
+jobs = [
+    "qa",
+    "test",
+    "coverage",
+    "release_ready",
+    ]
+
 [tox]
 use_mxdev = true
 test_runner = "pytest"
