@@ -14,7 +14,6 @@ dependencies_mappings = [
     ]
 
 [github]
-ref = "1.0.0"
 jobs = [
     "qa",
     "test",
