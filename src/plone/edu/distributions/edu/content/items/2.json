@@ -3,9 +3,203 @@
     "@type": "LRF",
     "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
     "allow_discussion": false,
-    "blocks": {},
+    "blocks": {
+        "2f5873de-7530-47f1-92f6-a8909176638a": {
+            "@type": "listing",
+            "headline": "Nachrichten",
+            "headlineTag": "h2",
+            "querystring": {
+                "query": [
+                    {
+                        "i": "portal_type",
+                        "o": "plone.app.querystring.operation.selection.any",
+                        "v": [
+                            "News Item"
+                        ]
+                    }
+                ],
+                "sort_on": "effective",
+                "sort_order": "descending",
+                "sort_order_boolean": true
+            },
+            "styles": {},
+            "variation": "grid"
+        },
+        "af449136-e961-4238-a98f-7f85d01a0e38": {
+            "@type": "slider",
+            "autoplayDelay": 4000,
+            "autoplayEnabled": false,
+            "autoplayJump": false,
+            "slides": [
+                {
+                    "@id": "ccd7ea18-5069-4ff4-8fe8-18632a56a36f",
+                    "description": "",
+                    "href": [
+                        {
+                            "@id": "/de/studium",
+                            "Description": "",
+                            "Title": "Studium",
+                            "hasPreviewImage": true,
+                            "image_field": "preview_image",
+                            "image_scales": {
+                                "preview_image": [
+                                    {
+                                        "content-type": "image/jpeg",
+                                        "download": "@@images/preview_image-3997-eac8de43eff40175df2f384c1638e5ab.jpeg",
+                                        "filename": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+                                        "height": 2665,
+                                        "scales": {
+                                            "great": {
+                                                "download": "@@images/preview_image-1200-03f7366e6702e291e580e45977c1ac21.jpeg",
+                                                "height": 800,
+                                                "width": 1200
+                                            },
+                                            "huge": {
+                                                "download": "@@images/preview_image-1600-cd5268825684f2b39bd55cf00081a0b4.jpeg",
+                                                "height": 1066,
+                                                "width": 1600
+                                            },
+                                            "icon": {
+                                                "download": "@@images/preview_image-32-fcadcf99779973be53011059d586db39.jpeg",
+                                                "height": 21,
+                                                "width": 32
+                                            },
+                                            "large": {
+                                                "download": "@@images/preview_image-800-d2d48071d8a82fe99273d24fb32fd72f.jpeg",
+                                                "height": 533,
+                                                "width": 800
+                                            },
+                                            "larger": {
+                                                "download": "@@images/preview_image-1000-b1cb52740da0aa9ac9570196f5f828d8.jpeg",
+                                                "height": 666,
+                                                "width": 1000
+                                            },
+                                            "mini": {
+                                                "download": "@@images/preview_image-200-4cc14031ca4b581fa592bc0f7183bd35.jpeg",
+                                                "height": 133,
+                                                "width": 200
+                                            },
+                                            "preview": {
+                                                "download": "@@images/preview_image-400-0ec8cc65a9934d593f65feb4c5fe6195.jpeg",
+                                                "height": 266,
+                                                "width": 400
+                                            },
+                                            "teaser": {
+                                                "download": "@@images/preview_image-600-9ef56016d70b6021827cdebd0d004141.jpeg",
+                                                "height": 400,
+                                                "width": 600
+                                            },
+                                            "thumb": {
+                                                "download": "@@images/preview_image-128-91f8d7de300aeab7fa11aec8f6536656.jpeg",
+                                                "height": 85,
+                                                "width": 128
+                                            },
+                                            "tile": {
+                                                "download": "@@images/preview_image-64-fb5d7625560217f722f40b6a9dc34e26.jpeg",
+                                                "height": 42,
+                                                "width": 64
+                                            }
+                                        },
+                                        "size": 2468140,
+                                        "width": 3997
+                                    }
+                                ]
+                            },
+                            "title": "Studium"
+                        }
+                    ],
+                    "title": "Studieren an der Plone Universit\u00e4t"
+                },
+                {
+                    "@id": "e5672316-604b-46f9-98e8-eb2840ba448d",
+                    "description": "",
+                    "head_title": null,
+                    "href": [
+                        {
+                            "@id": "/de/forschung",
+                            "@type": "Document",
+                            "Description": "",
+                            "Title": "Forschung",
+                            "hasPreviewImage": true,
+                            "head_title": null,
+                            "image_field": "preview_image",
+                            "image_scales": {
+                                "preview_image": [
+                                    {
+                                        "content-type": "image/jpeg",
+                                        "download": "@@images/preview_image-5184-d331410e54c8ac335839d42cc658fa56.jpeg",
+                                        "filename": "louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+                                        "height": 3456,
+                                        "scales": {
+                                            "great": {
+                                                "download": "@@images/preview_image-1200-431e011147e03652a76636d6e552db79.jpeg",
+                                                "height": 800,
+                                                "width": 1200
+                                            },
+                                            "huge": {
+                                                "download": "@@images/preview_image-1600-773fb5cd7748a317c83de0b74661eb8f.jpeg",
+                                                "height": 1066,
+                                                "width": 1600
+                                            },
+                                            "icon": {
+                                                "download": "@@images/preview_image-32-fc9d8741fd2b4fcad7694ca33a1f213b.jpeg",
+                                                "height": 21,
+                                                "width": 32
+                                            },
+                                            "large": {
+                                                "download": "@@images/preview_image-800-2a4f44f33dc970c4c0a661a11d79db5f.jpeg",
+                                                "height": 533,
+                                                "width": 800
+                                            },
+                                            "larger": {
+                                                "download": "@@images/preview_image-1000-b68b8cbe63046d9afd30d30a7a97eeea.jpeg",
+                                                "height": 666,
+                                                "width": 1000
+                                            },
+                                            "mini": {
+                                                "download": "@@images/preview_image-200-06d5a83b4330d27961b15cb419e8d094.jpeg",
+                                                "height": 133,
+                                                "width": 200
+                                            },
+                                            "preview": {
+                                                "download": "@@images/preview_image-400-28a2d350c4a6b86bfae81a82b8d58ca5.jpeg",
+                                                "height": 266,
+                                                "width": 400
+                                            },
+                                            "teaser": {
+                                                "download": "@@images/preview_image-600-6299b0070a4a1697bb1ff8583a397c15.jpeg",
+                                                "height": 400,
+                                                "width": 600
+                                            },
+                                            "thumb": {
+                                                "download": "@@images/preview_image-128-6b19d0623b38b3e9776e4880b63cfefb.jpeg",
+                                                "height": 85,
+                                                "width": 128
+                                            },
+                                            "tile": {
+                                                "download": "@@images/preview_image-64-7ae5504d8440d3a0a562dc0339f2c9ee.jpeg",
+                                                "height": 42,
+                                                "width": 64
+                                            }
+                                        },
+                                        "size": 3842177,
+                                        "width": 5184
+                                    }
+                                ]
+                            },
+                            "title": "Forschung"
+                        }
+                    ],
+                    "title": "Forschung an der Plone Universit\u00e4t"
+                }
+            ]
+        }
+    },
     "blocks_layout": {
-        "items": []
+        "items": [
+            "af449136-e961-4238-a98f-7f85d01a0e38",
+            "2f5873de-7530-47f1-92f6-a8909176638a"
+        ]
     },
     "contributors": [],
     "created": "2024-03-07T10:39:59+00:00",
@@ -21,11 +215,11 @@
     "language": "de",
     "layout": "folder_listing",
     "lock": {},
-    "modified": "2024-03-08T22:26:15+00:00",
+    "modified": "2024-03-09T08:56:31+00:00",
     "parent": {
         "@id": "/",
         "@type": "Plone Site",
-        "UID": "7dff39a20f00468fb6b43276791e1ccb",
+        "UID": "d0836afbce0d4c0d9566d76ada4d3604",
         "description": "A Plone Site",
         "title": "Site",
         "type_title": "Website"

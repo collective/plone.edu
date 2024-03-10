@@ -1,134 +1,76 @@
 {
-    "@id": "/de/organisation/fakultaet-biologie",
-    "@type": "Subsite",
-    "UID": "dfe27277e292413ca8039daf4e86f231",
+    "@id": "/de/organisation",
+    "@type": "Document",
+    "UID": "cd9af6eb8107428e99d1c8b45b036999",
     "allow_discussion": false,
     "blocks": {
-        "22326295-9b61-4602-8aa4-bc42f6902ae3": {
+        "74a49ad7-ef65-4984-b72d-9570a1c61a3f": {
             "@type": "title"
         },
-        "3838fe75-3be3-4815-bf58-e2f84a12ec2c": {
-            "@type": "slate"
-        },
-        "64321d98-c526-4950-8a6e-be5193989af0": {
-            "@type": "image",
-            "align": "full",
-            "credit": {},
-            "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
-            "image_field": "image",
-            "image_scales": {
-                "image": [
+        "7d4a5f7e-912d-4aab-bb06-de1a602ed523": {
+            "@type": "listing",
+            "headlineTag": "h2",
+            "querystring": {
+                "query": [
                     {
-                        "content-type": "image/jpeg",
-                        "download": "@@images/image-6000-af982c6089a8559bdeb7168882011c09.jpeg",
-                        "filename": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
-                        "height": 4000,
-                        "scales": {
-                            "great": {
-                                "download": "@@images/image-1200-0d9231d39c41de073e1e3a9661821a2a.jpeg",
-                                "height": 800,
-                                "width": 1200
-                            },
-                            "huge": {
-                                "download": "@@images/image-1600-00d3c9c36d98764e39b03061545ada45.jpeg",
-                                "height": 1066,
-                                "width": 1600
-                            },
-                            "icon": {
-                                "download": "@@images/image-32-b2a85459e391eed7e57b2a778db3d2c5.jpeg",
-                                "height": 21,
-                                "width": 32
-                            },
-                            "large": {
-                                "download": "@@images/image-800-39a5da37d5e476e413ccb67bf77bf962.jpeg",
-                                "height": 533,
-                                "width": 800
-                            },
-                            "larger": {
-                                "download": "@@images/image-1000-b20174b064539351c78c3e1d86484c84.jpeg",
-                                "height": 666,
-                                "width": 1000
-                            },
-                            "mini": {
-                                "download": "@@images/image-200-cd97ab9d19099f4b412003095ff12f76.jpeg",
-                                "height": 133,
-                                "width": 200
-                            },
-                            "preview": {
-                                "download": "@@images/image-400-8814589b6d100f39c9ec170d7183c486.jpeg",
-                                "height": 266,
-                                "width": 400
-                            },
-                            "teaser": {
-                                "download": "@@images/image-600-a8711e4577f96c7d7c94aeebdd2aa930.jpeg",
-                                "height": 400,
-                                "width": 600
-                            },
-                            "thumb": {
-                                "download": "@@images/image-128-a6e13b788a0d1a8a6f599d7abfe13bef.jpeg",
-                                "height": 85,
-                                "width": 128
-                            },
-                            "tile": {
-                                "download": "@@images/image-64-b6aec07038a49aa0aaa164f738b65b5a.jpeg",
-                                "height": 42,
-                                "width": 64
-                            }
-                        },
-                        "size": 3229020,
-                        "width": 6000
+                        "i": "path",
+                        "o": "plone.app.querystring.operation.string.relativePath",
+                        "v": ".::1"
                     }
-                ]
+                ],
+                "sort_order": "ascending"
             },
-            "size": "l",
-            "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
-            "url": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg"
+            "styles": {},
+            "variation": "grid"
+        },
+        "8657607c-e402-4af3-9710-c30f26bf1508": {
+            "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "22326295-9b61-4602-8aa4-bc42f6902ae3",
-            "64321d98-c526-4950-8a6e-be5193989af0",
-            "3838fe75-3be3-4815-bf58-e2f84a12ec2c"
+            "74a49ad7-ef65-4984-b72d-9570a1c61a3f",
+            "7d4a5f7e-912d-4aab-bb06-de1a602ed523",
+            "8657607c-e402-4af3-9710-c30f26bf1508"
         ]
     },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:47:21+00:00",
+    "created": "2024-03-07T10:43:29+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:47:00",
+    "effective": "2024-03-08T20:00:00",
+    "exclude_from_nav": false,
     "expires": null,
-    "head_title": null,
-    "id": "fakultaet-biologie",
+    "id": "organisation",
     "is_folderish": true,
-    "layout": "view",
+    "language": "de",
+    "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-09T06:57:00+00:00",
-    "nav_title": null,
+    "modified": "2024-03-09T08:41:45+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
     },
-    "preview_caption_link": null,
+    "preview_caption": null,
+    "preview_image": null,
     "review_state": "published",
     "rights": "",
-    "title": "Fakult\u00e4t Biologie",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "Organisation",
+    "type_title": "Seite",
     "version": "current",
-    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -136,14 +78,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-08T19:47:21+00:00"
+                "time": "2024-03-07T10:43:29+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:47:24+00:00"
+                "time": "2024-03-08T19:00:06+00:00"
             }
         ]
     },

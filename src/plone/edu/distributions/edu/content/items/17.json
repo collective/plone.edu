@@ -1,48 +1,88 @@
 {
-    "@id": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
-    "@type": "Image",
-    "UID": "7470b360ad9b4d5eb2923f5671294415",
+    "@id": "/de/organisation/philosophische-fakultaet",
+    "@type": "Subsite",
+    "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
     "allow_discussion": false,
+    "blocks": {
+        "52a6b3ca-45aa-4b21-8e8b-9044872115f8": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "",
+            "image_field": "image",
+            "size": "l",
+            "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+            "url": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg"
+        },
+        "5a88dd92-783d-443f-ae09-b921177e09d7": {
+            "@type": "title"
+        },
+        "e46bbbbb-8c2f-4a04-851e-b17f3b8db084": {
+            "@type": "slate"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "5a88dd92-783d-443f-ae09-b921177e09d7",
+            "52a6b3ca-45aa-4b21-8e8b-9044872115f8",
+            "e46bbbbb-8c2f-4a04-851e-b17f3b8db084"
+        ]
+    },
+    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T22:35:01+00:00",
+    "created": "2024-03-08T19:47:54+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": null,
-    "exclude_from_nav": false,
+    "effective": "2024-03-08T20:47:00",
     "expires": null,
-    "id": "giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
-    "image": {
-        "blob_path": "blobs/7470b360ad9b4d5eb2923f5671294415-image/giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-        "content-type": "image/jpeg",
-        "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-        "height": 3969,
-        "size": 3248581,
-        "width": 5953
+    "head_title": null,
+    "id": "philosophische-fakultaet",
+    "is_folderish": true,
+    "layout": "view",
+    "lock": {
+        "locked": false,
+        "stealable": true
     },
-    "is_folderish": false,
-    "language": "",
-    "layout": "image_view",
-    "lock": {},
-    "modified": "2024-03-08T22:35:01+00:00",
+    "modified": "2024-03-09T08:41:45+00:00",
+    "nav_title": null,
     "parent": {
-        "@id": "/de/organisation/philosophische-fakultaet",
-        "@type": "Subsite",
-        "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+        "@id": "/de/organisation",
+        "@type": "Document",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Philosophische Fakult\u00e4t",
-        "type_title": "Subsite"
+        "title": "Organisation",
+        "type_title": "Seite"
     },
-    "review_state": null,
+    "preview_caption_link": null,
+    "review_state": "published",
     "rights": "",
-    "subjects": [],
-    "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-    "type_title": "Bild",
+    "title": "Philosophische Fakult\u00e4t",
+    "type_title": "Subsite",
     "version": "current",
+    "versioning_enabled": true,
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-08T19:47:54+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-08T19:47:57+00:00"
+            }
+        ]
+    },
     "working_copy": null,
     "working_copy_of": null
 }

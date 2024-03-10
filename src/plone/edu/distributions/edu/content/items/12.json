@@ -1,134 +1,59 @@
 {
-    "@id": "/de/organisation/fakultaet-informatik",
-    "@type": "Subsite",
-    "UID": "381f3d5686534d26ae59f48acb51f928",
+    "@id": "/de/organisation/fakultaet-biologie/studium",
+    "@type": "Document",
+    "UID": "e999412b13b546879ef53079b47d5e26",
     "allow_discussion": false,
     "blocks": {
-        "1fbbdc7d-8135-402e-8daf-2352d9fab0ea": {
-            "@type": "image",
-            "align": "full",
-            "credit": {},
-            "description": "",
-            "image_field": "image",
-            "image_scales": {
-                "image": [
-                    {
-                        "content-type": "image/jpeg",
-                        "download": "@@images/image-6500-a74037c122364f0419dbe8f7c7a40e0f.jpeg",
-                        "filename": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
-                        "height": 4800,
-                        "scales": {
-                            "great": {
-                                "download": "@@images/image-1200-1b54f04c37063303dc5887536f6ac096.jpeg",
-                                "height": 886,
-                                "width": 1200
-                            },
-                            "huge": {
-                                "download": "@@images/image-1600-db14150b25da0855108a376eccb5f0c8.jpeg",
-                                "height": 1181,
-                                "width": 1600
-                            },
-                            "icon": {
-                                "download": "@@images/image-32-a2e9e95891fbd1357d3848a7a09ab2f2.jpeg",
-                                "height": 23,
-                                "width": 32
-                            },
-                            "large": {
-                                "download": "@@images/image-800-06e43c7914569507b3ab691accea0629.jpeg",
-                                "height": 590,
-                                "width": 800
-                            },
-                            "larger": {
-                                "download": "@@images/image-1000-f16f7a6c4e0dfa852a25dacc6f338e0e.jpeg",
-                                "height": 738,
-                                "width": 1000
-                            },
-                            "mini": {
-                                "download": "@@images/image-200-3bf172b4f13b5664f9643efdf105e6a9.jpeg",
-                                "height": 147,
-                                "width": 200
-                            },
-                            "preview": {
-                                "download": "@@images/image-400-3a32da579ec08ded74e5bd47025bf13c.jpeg",
-                                "height": 295,
-                                "width": 400
-                            },
-                            "teaser": {
-                                "download": "@@images/image-600-f028e366741ef4eddc4427184e5cc512.jpeg",
-                                "height": 443,
-                                "width": 600
-                            },
-                            "thumb": {
-                                "download": "@@images/image-128-8cc0ea553fd00be26d1db9e490b3a390.jpeg",
-                                "height": 94,
-                                "width": 128
-                            },
-                            "tile": {
-                                "download": "@@images/image-64-2207c552d8e97ad1cfa581148e20e806.jpeg",
-                                "height": 47,
-                                "width": 64
-                            }
-                        },
-                        "size": 2359744,
-                        "width": 6500
-                    }
-                ]
-            },
-            "size": "l",
-            "title": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
-            "url": "/de/organisation/fakultaet-informatik/getty-images-d6p8fnyzxx4-unsplash-1.jpg"
-        },
-        "c2babdd9-48d3-4b4b-bf17-6fbdeac52506": {
-            "@type": "slate"
-        },
-        "e3707a58-e364-4196-984a-806cef80476a": {
+        "ca2bc890-2cfa-418a-87fa-3d6513ad73de": {
             "@type": "title"
+        },
+        "fd74eebe-088d-482f-bed5-984e8bac4efc": {
+            "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "e3707a58-e364-4196-984a-806cef80476a",
-            "1fbbdc7d-8135-402e-8daf-2352d9fab0ea",
-            "c2babdd9-48d3-4b4b-bf17-6fbdeac52506"
+            "ca2bc890-2cfa-418a-87fa-3d6513ad73de",
+            "fd74eebe-088d-482f-bed5-984e8bac4efc"
         ]
     },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:48:14+00:00",
+    "created": "2024-03-09T06:56:35+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-08T20:48:00",
+    "effective": "2024-03-09T07:57:00",
+    "exclude_from_nav": false,
     "expires": null,
-    "head_title": null,
-    "id": "fakultaet-informatik",
+    "id": "studium",
     "is_folderish": true,
-    "layout": "view",
+    "language": "de",
+    "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T22:32:47+00:00",
-    "nav_title": null,
+    "modified": "2024-03-09T06:57:17+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-biologie",
+        "@type": "Subsite",
+        "UID": "dfe27277e292413ca8039daf4e86f231",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Biologie",
+        "type_title": "Subsite"
     },
-    "preview_caption_link": null,
+    "preview_caption": null,
+    "preview_image": null,
     "review_state": "published",
     "rights": "",
-    "title": "Fakult\u00e4t Informatik",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "Studium",
+    "type_title": "Seite",
     "version": "current",
-    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -136,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-08T19:48:14+00:00"
+                "time": "2024-03-09T06:56:35+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:48:17+00:00"
+                "time": "2024-03-09T06:57:17+00:00"
             }
         ]
     },

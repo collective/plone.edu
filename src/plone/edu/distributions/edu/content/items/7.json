@@ -1,59 +1,70 @@
 {
-    "@id": "/de/organisation/fakultaet-biologie/die-fakultaet",
-    "@type": "Document",
-    "UID": "7d2a1ae0952748a198c638840df94110",
+    "@id": "/de/organisation/fakultaet-biologie",
+    "@type": "Subsite",
+    "UID": "dfe27277e292413ca8039daf4e86f231",
     "allow_discussion": false,
     "blocks": {
-        "0d98e8e1-430a-494f-be08-972863f1c4f1": {
+        "22326295-9b61-4602-8aa4-bc42f6902ae3": {
+            "@type": "title"
+        },
+        "3838fe75-3be3-4815-bf58-e2f84a12ec2c": {
             "@type": "slate"
         },
-        "354bb08e-1cf6-4180-99f0-794342a42dfd": {
-            "@type": "title"
+        "64321d98-c526-4950-8a6e-be5193989af0": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
+            "image_field": "image",
+            "size": "l",
+            "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+            "url": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg"
         }
     },
     "blocks_layout": {
         "items": [
-            "354bb08e-1cf6-4180-99f0-794342a42dfd",
-            "0d98e8e1-430a-494f-be08-972863f1c4f1"
+            "22326295-9b61-4602-8aa4-bc42f6902ae3",
+            "64321d98-c526-4950-8a6e-be5193989af0",
+            "3838fe75-3be3-4815-bf58-e2f84a12ec2c"
         ]
     },
+    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-09T06:56:21+00:00",
+    "created": "2024-03-08T19:47:21+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-09T07:57:21",
-    "exclude_from_nav": false,
+    "effective": "2024-03-08T20:47:00",
     "expires": null,
-    "id": "die-fakultaet",
+    "head_title": null,
+    "id": "fakultaet-biologie",
     "is_folderish": true,
-    "language": "",
-    "layout": "document_view",
+    "layout": "view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-09T06:57:21+00:00",
+    "modified": "2024-03-09T08:41:45+00:00",
+    "nav_title": null,
     "parent": {
-        "@id": "/de/organisation/fakultaet-biologie",
-        "@type": "Subsite",
-        "UID": "dfe27277e292413ca8039daf4e86f231",
+        "@id": "/de/organisation",
+        "@type": "Document",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Fakult\u00e4t Biologie",
-        "type_title": "Subsite"
+        "title": "Organisation",
+        "type_title": "Seite"
     },
-    "preview_caption": null,
-    "preview_image": null,
+    "preview_caption_link": null,
     "review_state": "published",
     "rights": "",
-    "subjects": [],
-    "title": "Die Fakult\u00e4t",
-    "type_title": "Seite",
+    "title": "Fakult\u00e4t Biologie",
+    "type_title": "Subsite",
     "version": "current",
+    "versioning_enabled": true,
     "workflow_history": {
         "simple_publication_workflow": [
             {
@@ -61,14 +72,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-09T06:56:21+00:00"
+                "time": "2024-03-08T19:47:21+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-09T06:57:21+00:00"
+                "time": "2024-03-08T19:47:24+00:00"
             }
         ]
     },

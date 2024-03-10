@@ -1,48 +1,88 @@
 {
-    "@id": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
-    "@type": "Image",
-    "UID": "60392dab4a7040758dc531b1b269fdcd",
+    "@id": "/de/organisation/fakultaet-mathematik",
+    "@type": "Subsite",
+    "UID": "f19746e11ed4487388cbf353a50b8a63",
     "allow_discussion": false,
+    "blocks": {
+        "b33009db-9bda-4e11-bd4d-35b459a19cca": {
+            "@type": "slate"
+        },
+        "f551fdcb-4870-4637-8687-36d953cb0857": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
+            "image_field": "image",
+            "size": "l",
+            "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+            "url": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg"
+        },
+        "fdf65224-068f-41b9-8cc8-85a355d0ee1d": {
+            "@type": "title"
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "fdf65224-068f-41b9-8cc8-85a355d0ee1d",
+            "f551fdcb-4870-4637-8687-36d953cb0857",
+            "b33009db-9bda-4e11-bd4d-35b459a19cca"
+        ]
+    },
+    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T22:27:51+00:00",
+    "created": "2024-03-08T19:46:25+00:00",
     "creators": [
         "admin"
     ],
-    "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
-    "effective": null,
-    "exclude_from_nav": false,
+    "description": "",
+    "effective": "2024-03-08T22:54:00",
     "expires": null,
-    "id": "jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
-    "image": {
-        "blob_path": "blobs/60392dab4a7040758dc531b1b269fdcd-image/jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-        "content-type": "image/jpeg",
-        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-        "height": 3358,
-        "size": 2305255,
-        "width": 5060
+    "head_title": null,
+    "id": "fakultaet-mathematik",
+    "is_folderish": true,
+    "layout": "view",
+    "lock": {
+        "locked": false,
+        "stealable": true
     },
-    "is_folderish": false,
-    "language": "",
-    "layout": "image_view",
-    "lock": {},
-    "modified": "2024-03-08T22:28:07+00:00",
+    "modified": "2024-03-09T08:41:45+00:00",
+    "nav_title": null,
     "parent": {
-        "@id": "/de/organisation/fakultaet-mathematik",
-        "@type": "Subsite",
-        "UID": "f19746e11ed4487388cbf353a50b8a63",
+        "@id": "/de/organisation",
+        "@type": "Document",
+        "UID": "cd9af6eb8107428e99d1c8b45b036999",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Fakult\u00e4t Mathematik",
-        "type_title": "Subsite"
+        "title": "Organisation",
+        "type_title": "Seite"
     },
-    "review_state": null,
+    "preview_caption_link": null,
+    "review_state": "published",
     "rights": "",
-    "subjects": [],
-    "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
-    "type_title": "Bild",
+    "title": "Fakult\u00e4t Mathematik",
+    "type_title": "Subsite",
     "version": "current",
+    "versioning_enabled": true,
+    "workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "actor": "admin",
+                "comments": "",
+                "review_state": "private",
+                "time": "2024-03-08T19:46:25+00:00"
+            },
+            {
+                "action": "publish",
+                "actor": "admin",
+                "comments": "",
+                "review_state": "published",
+                "time": "2024-03-08T21:54:39+00:00"
+            }
+        ]
+    },
     "working_copy": null,
     "working_copy_of": null
 }

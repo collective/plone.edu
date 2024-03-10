@@ -1,40 +1,140 @@
 {
-    "@id": "/en",
-    "@type": "LRF",
-    "UID": "1b27d6a98dc142eba8a2b2097ef53ba0",
+    "@id": "/de/studium",
+    "@type": "Document",
+    "UID": "dac45303d5314f8d929002849b1934e3",
     "allow_discussion": false,
-    "blocks": {},
+    "blocks": {
+        "463e750c-d471-4549-aa92-2c5ac76b26ab": {
+            "@type": "image",
+            "align": "full",
+            "credit": {},
+            "description": "https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg",
+            "image_field": "image",
+            "image_scales": {
+                "image": [
+                    {
+                        "content-type": "image/jpeg",
+                        "download": "@@images/image-3997-fb1421a6f072116bd70dd444186e6e02.jpeg",
+                        "filename": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+                        "height": 2665,
+                        "scales": {
+                            "great": {
+                                "download": "@@images/image-1200-8dae2e467b8bf0411afd5c1d301aa208.jpeg",
+                                "height": 800,
+                                "width": 1200
+                            },
+                            "huge": {
+                                "download": "@@images/image-1600-dff7ad811d1560b0fda836ec459f9407.jpeg",
+                                "height": 1066,
+                                "width": 1600
+                            },
+                            "icon": {
+                                "download": "@@images/image-32-1d7c3434043bb1e357544eff19f8273d.jpeg",
+                                "height": 21,
+                                "width": 32
+                            },
+                            "large": {
+                                "download": "@@images/image-800-ac7b56876e3782caf7aab2bafa080ca7.jpeg",
+                                "height": 533,
+                                "width": 800
+                            },
+                            "larger": {
+                                "download": "@@images/image-1000-30910ea99bbdbc9531f843f9bc714dfd.jpeg",
+                                "height": 666,
+                                "width": 1000
+                            },
+                            "mini": {
+                                "download": "@@images/image-200-02e388a4f86040d5a1e05e8cdd6bc90a.jpeg",
+                                "height": 133,
+                                "width": 200
+                            },
+                            "preview": {
+                                "download": "@@images/image-400-ee88d254d1712b5bfe42a21bcf60b287.jpeg",
+                                "height": 266,
+                                "width": 400
+                            },
+                            "teaser": {
+                                "download": "@@images/image-600-2b94c9ba311ccae0fa06ea9f76ea1e08.jpeg",
+                                "height": 400,
+                                "width": 600
+                            },
+                            "thumb": {
+                                "download": "@@images/image-128-de7df9bd3f59eaef3542b43b4a5132d5.jpeg",
+                                "height": 85,
+                                "width": 128
+                            },
+                            "tile": {
+                                "download": "@@images/image-64-382049d3e7c7fe660cd74edb7901b360.jpeg",
+                                "height": 42,
+                                "width": 64
+                            }
+                        },
+                        "size": 2468140,
+                        "width": 3997
+                    }
+                ]
+            },
+            "size": "l",
+            "title": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+            "url": "/de/studium/brooke-cagle-uhvrvdr7pg-unsplash.jpg"
+        },
+        "7a73d006-c222-490d-b059-391cf19e7d91": {
+            "@type": "slate"
+        },
+        "ccab8cf1-665c-4200-9c8e-22b7bf0937f7": {
+            "@type": "title"
+        }
+    },
     "blocks_layout": {
-        "items": []
+        "items": [
+            "ccab8cf1-665c-4200-9c8e-22b7bf0937f7",
+            "463e750c-d471-4549-aa92-2c5ac76b26ab",
+            "7a73d006-c222-490d-b059-391cf19e7d91"
+        ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:39:59+00:00",
+    "created": "2024-03-07T10:41:47+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": null,
-    "exclude_from_nav": true,
+    "effective": "2024-03-08T19:59:00",
+    "exclude_from_nav": false,
     "expires": null,
-    "id": "en",
+    "id": "studium",
     "is_folderish": true,
     "language": "de",
-    "layout": "folder_listing",
-    "lock": {},
-    "modified": "2024-03-07T17:00:37+00:00",
+    "layout": "document_view",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "modified": "2024-03-09T08:49:02+00:00",
     "parent": {
-        "@id": "/",
-        "@type": "Plone Site",
-        "UID": "7dff39a20f00468fb6b43276791e1ccb",
-        "description": "A Plone Site",
-        "title": "Site",
-        "type_title": "Website"
+        "@id": "/de",
+        "@type": "LRF",
+        "UID": "4ca6b8c8b8e94a5cba6ab96898933262",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Deutsch",
+        "type_title": "Basisordner einer Sprache"
+    },
+    "preview_caption": null,
+    "preview_image": {
+        "blob_path": "blobs/dac45303d5314f8d929002849b1934e3-preview_image/brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+        "height": 2665,
+        "size": 2468140,
+        "width": 3997
     },
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "English",
-    "type_title": "Basisordner einer Sprache",
+    "title": "Studium",
+    "type_title": "Seite",
     "version": "current",
     "workflow_history": {
         "simple_publication_workflow": [
@@ -43,14 +143,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:39:59+00:00"
+                "time": "2024-03-07T10:41:47+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-07T10:39:59+00:00"
+                "time": "2024-03-08T18:59:49+00:00"
             }
         ]
     },

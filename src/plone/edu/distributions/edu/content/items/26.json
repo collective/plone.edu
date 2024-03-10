@@ -1,0 +1,48 @@
+{
+    "@id": "/de/studium/brooke-cagle-uhvrvdr7pg-unsplash.jpg",
+    "@type": "Image",
+    "UID": "2185484e1f1f4c6db8624682f471f636",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-09T08:48:45+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "brooke-cagle-uhvrvdr7pg-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/2185484e1f1f4c6db8624682f471f636-image/brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+        "height": 2665,
+        "size": 2468140,
+        "width": 3997
+    },
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-09T08:48:45+00:00",
+    "parent": {
+        "@id": "/de/studium",
+        "@type": "Document",
+        "UID": "dac45303d5314f8d929002849b1934e3",
+        "description": "",
+        "image_field": null,
+        "image_scales": null,
+        "review_state": "published",
+        "title": "Studium",
+        "type_title": "Seite"
+    },
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+    "type_title": "Bild",
+    "version": "current",
+    "working_copy": null,
+    "working_copy_of": null
+}

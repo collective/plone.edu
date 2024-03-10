@@ -5,6 +5,78 @@
     "allow_discussion": false,
     "blocks": {
         "96e989e0-f666-4741-ad60-3ada5bc55ff5": {
+            "@type": "image",
+            "align": "full",
+            "alt": "",
+            "image_field": "image",
+            "image_scales": {
+                "image": [
+                    {
+                        "content-type": "image/jpeg",
+                        "download": "@@images/image-5184-75bfcc9145f0e411f54bc459cd295450.jpeg",
+                        "filename": "louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+                        "height": 3456,
+                        "scales": {
+                            "great": {
+                                "download": "@@images/image-1200-f69fa4d3b1c03dbedd6dc9771f1b303e.jpeg",
+                                "height": 800,
+                                "width": 1200
+                            },
+                            "huge": {
+                                "download": "@@images/image-1600-b06bfb4c75afb99ff84cbc3748bb2a6d.jpeg",
+                                "height": 1066,
+                                "width": 1600
+                            },
+                            "icon": {
+                                "download": "@@images/image-32-cd19a5fdf58093d65504ac32727a1568.jpeg",
+                                "height": 21,
+                                "width": 32
+                            },
+                            "large": {
+                                "download": "@@images/image-800-b45f46e0fde7c34891c59ca859b80acc.jpeg",
+                                "height": 533,
+                                "width": 800
+                            },
+                            "larger": {
+                                "download": "@@images/image-1000-2c16e717d974aff5a7cd483f71eef3d8.jpeg",
+                                "height": 666,
+                                "width": 1000
+                            },
+                            "mini": {
+                                "download": "@@images/image-200-111e74a25f9a63433b0324e52a7525be.jpeg",
+                                "height": 133,
+                                "width": 200
+                            },
+                            "preview": {
+                                "download": "@@images/image-400-19c71679dcb7a7389ca7c16fd61a2bb8.jpeg",
+                                "height": 266,
+                                "width": 400
+                            },
+                            "teaser": {
+                                "download": "@@images/image-600-1b00f65f83a12d52ae191069d7cce067.jpeg",
+                                "height": 400,
+                                "width": 600
+                            },
+                            "thumb": {
+                                "download": "@@images/image-128-d622cbe0bd59183254e019a4c1ce9c3e.jpeg",
+                                "height": 85,
+                                "width": 128
+                            },
+                            "tile": {
+                                "download": "@@images/image-64-acf5d1aaf480f5851e2984acebda5ca5.jpeg",
+                                "height": 42,
+                                "width": 64
+                            }
+                        },
+                        "size": 3842177,
+                        "width": 5184
+                    }
+                ]
+            },
+            "size": "l",
+            "url": "/de/forschung/louis-reed-pwckf7l4-no-unsplash-1.jpg"
+        },
+        "c6e88b9c-c060-47f5-a549-5842f04c062c": {
             "@type": "slate"
         },
         "ce61133d-c25f-47e6-9a6b-5a374df57cd2": {
@@ -14,7 +86,8 @@
     "blocks_layout": {
         "items": [
             "ce61133d-c25f-47e6-9a6b-5a374df57cd2",
-            "96e989e0-f666-4741-ad60-3ada5bc55ff5"
+            "96e989e0-f666-4741-ad60-3ada5bc55ff5",
+            "c6e88b9c-c060-47f5-a549-5842f04c062c"
         ]
     },
     "contributors": [],
@@ -34,7 +107,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T18:59:56+00:00",
+    "modified": "2024-03-09T08:51:10+00:00",
     "parent": {
         "@id": "/de",
         "@type": "LRF",
@@ -47,7 +120,14 @@
         "type_title": "Basisordner einer Sprache"
     },
     "preview_caption": null,
-    "preview_image": null,
+    "preview_image": {
+        "blob_path": "blobs/1dcc02e3985a4c388360236bbbcd0e1d-preview_image/louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+        "height": 3456,
+        "size": 3842177,
+        "width": 5184
+    },
     "review_state": "published",
     "rights": "",
     "subjects": [],

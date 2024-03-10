@@ -1,40 +1,40 @@
 {
-    "@id": "/de/organisation/fakultaet-biologie/internationales",
+    "@id": "/de/organisation/fakultaet-biologie/forschung",
     "@type": "Document",
-    "UID": "e87d46c6e8294aa6af540c9c8bce550e",
+    "UID": "10200b859f0344f599017f2da67f47d0",
     "allow_discussion": false,
     "blocks": {
-        "66a776cb-aab3-42da-9dc6-1316a2cc833d": {
+        "1b555cda-9de0-4265-8141-f2209296fc84": {
             "@type": "slate"
         },
-        "d4bdbc1f-0711-48a1-bc6a-d1120cf69720": {
+        "61812896-6e08-45c3-aafb-e155a31e4abf": {
             "@type": "title"
         }
     },
     "blocks_layout": {
         "items": [
-            "d4bdbc1f-0711-48a1-bc6a-d1120cf69720",
-            "66a776cb-aab3-42da-9dc6-1316a2cc833d"
+            "61812896-6e08-45c3-aafb-e155a31e4abf",
+            "1b555cda-9de0-4265-8141-f2209296fc84"
         ]
     },
     "contributors": [],
-    "created": "2024-03-09T06:57:00+00:00",
+    "created": "2024-03-09T06:56:41+00:00",
     "creators": [
         "admin"
     ],
     "description": "",
-    "effective": "2024-03-09T07:57:04",
+    "effective": "2024-03-09T07:57:00",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "internationales",
+    "id": "forschung",
     "is_folderish": true,
-    "language": "",
+    "language": "de",
     "layout": "document_view",
     "lock": {
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-09T06:57:04+00:00",
+    "modified": "2024-03-09T06:57:13+00:00",
     "parent": {
         "@id": "/de/organisation/fakultaet-biologie",
         "@type": "Subsite",
@@ -51,7 +51,7 @@
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Internationales",
+    "title": "Forschung",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -61,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-09T06:57:00+00:00"
+                "time": "2024-03-09T06:56:41+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-09T06:57:04+00:00"
+                "time": "2024-03-09T06:57:13+00:00"
             }
         ]
     },
