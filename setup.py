@@ -52,6 +52,7 @@ setup(
     install_requires=[
         "setuptools",
         "Plone",
+        "plone.volto",
         "plone.distribution>=1.0.0b2",
         "plone.restapi",
         "plone.api",
