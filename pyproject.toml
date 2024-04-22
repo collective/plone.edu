@@ -121,7 +121,7 @@ Zope = [
   'Products.CMFCore', 'Products.CMFDynamicViewFTI',
 ]
 python-dateutil = ['dateutil']
-ignore-packages = ['plone.volto', 'plone.api', 'zestreleaser.towncrier', 'zest.releaser', 'pytest', 'pytest-cov', 'pytest-plone']
+ignore-packages = ['zestreleaser.towncrier', 'zest.releaser', 'pytest', 'pytest-cov', 'pytest-plone']
 Plone = ['Products.CMFPlone', 'Products.CMFCore', 'Products.GenericSetup']
 
 ##
@@ -137,11 +137,12 @@ Plone = ['Products.CMFPlone', 'Products.CMFCore', 'Products.GenericSetup']
 [tool.check-manifest]
 ignore = [
     ".editorconfig",
+    ".flake8",
     ".meta.toml",
     ".pre-commit-config.yaml",
-    "tox.ini",
-    ".flake8",
+    "dependabot.yml",
     "mx.ini",
+    "tox.ini",
 
 ]
 
