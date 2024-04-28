@@ -1,40 +1,31 @@
 {
-    "@id": "/de/organisation/fakultaet-biologie/studium",
-    "@type": "Document",
-    "UID": "e999412b13b546879ef53079b47d5e26",
+    "@id": "/de/organisation/fakultaet-biologie/rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
+    "@type": "Image",
+    "UID": "be6a9522ab144738ae0d1f3d5328a5aa",
     "allow_discussion": false,
-    "blocks": {
-        "ca2bc890-2cfa-418a-87fa-3d6513ad73de": {
-            "@type": "title"
-        },
-        "fd74eebe-088d-482f-bed5-984e8bac4efc": {
-            "@type": "slate"
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "ca2bc890-2cfa-418a-87fa-3d6513ad73de",
-            "fd74eebe-088d-482f-bed5-984e8bac4efc"
-        ]
-    },
     "contributors": [],
-    "created": "2024-03-09T06:56:35+00:00",
+    "created": "2024-03-08T22:29:40+00:00",
     "creators": [
         "admin"
     ],
-    "description": "",
-    "effective": "2024-03-09T07:57:17",
+    "description": "https://unsplash.com/photos/closeup-photo-of-green-leaf-K715ldqJ5JI",
+    "effective": null,
     "exclude_from_nav": false,
     "expires": null,
-    "id": "studium",
-    "is_folderish": true,
-    "language": "",
-    "layout": "document_view",
-    "lock": {
-        "locked": false,
-        "stealable": true
+    "id": "rodion-kutsaiev-k715ldqj5ji-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/be6a9522ab144738ae0d1f3d5328a5aa-image/rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+        "height": 4000,
+        "size": 3229020,
+        "width": 6000
     },
-    "modified": "2024-03-09T06:57:17+00:00",
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:29:50+00:00",
     "parent": {
         "@id": "/de/organisation/fakultaet-biologie",
         "@type": "Subsite",
@@ -46,32 +37,12 @@
         "title": "Fakult\u00e4t Biologie",
         "type_title": "Subsite"
     },
-    "preview_caption": null,
-    "preview_image": null,
-    "review_state": "published",
+    "review_state": null,
     "rights": "",
     "subjects": [],
-    "title": "Studium",
-    "type_title": "Seite",
+    "title": "rodion-kutsaiev-K715ldqJ5JI-unsplash.jpg",
+    "type_title": "Bild",
     "version": "current",
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-09T06:56:35+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-09T06:57:17+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }

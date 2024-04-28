@@ -1,41 +1,24 @@
 {
-    "@id": "/de/organisation",
+    "@id": "/de/internationales",
     "@type": "Document",
-    "UID": "cd9af6eb8107428e99d1c8b45b036999",
+    "UID": "3b1413db8c364d4a95ba0b408a2cc9dd",
     "allow_discussion": false,
     "blocks": {
-        "74a49ad7-ef65-4984-b72d-9570a1c61a3f": {
+        "164ec4a8-bfef-4556-a139-1d88a6b44c6b": {
             "@type": "title"
         },
-        "7d4a5f7e-912d-4aab-bb06-de1a602ed523": {
-            "@type": "listing",
-            "headlineTag": "h2",
-            "querystring": {
-                "query": [
-                    {
-                        "i": "path",
-                        "o": "plone.app.querystring.operation.string.relativePath",
-                        "v": ".::1"
-                    }
-                ],
-                "sort_order": "ascending"
-            },
-            "styles": {},
-            "variation": "grid"
-        },
-        "8657607c-e402-4af3-9710-c30f26bf1508": {
+        "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e": {
             "@type": "slate"
         }
     },
     "blocks_layout": {
         "items": [
-            "74a49ad7-ef65-4984-b72d-9570a1c61a3f",
-            "7d4a5f7e-912d-4aab-bb06-de1a602ed523",
-            "8657607c-e402-4af3-9710-c30f26bf1508"
+            "164ec4a8-bfef-4556-a139-1d88a6b44c6b",
+            "3ac4a6c0-784c-4ce3-9956-20fb1d9d077e"
         ]
     },
     "contributors": [],
-    "created": "2024-03-07T10:43:29+00:00",
+    "created": "2024-03-07T10:42:05+00:00",
     "creators": [
         "admin"
     ],
@@ -43,7 +26,7 @@
     "effective": "2024-03-08T20:00:00",
     "exclude_from_nav": false,
     "expires": null,
-    "id": "organisation",
+    "id": "internationales",
     "is_folderish": true,
     "language": "de",
     "layout": "document_view",
@@ -51,7 +34,7 @@
         "locked": false,
         "stealable": true
     },
-    "modified": "2024-03-08T22:26:15+00:00",
+    "modified": "2024-03-08T19:00:01+00:00",
     "parent": {
         "@id": "/de",
         "@type": "LRF",
@@ -68,7 +51,7 @@
     "review_state": "published",
     "rights": "",
     "subjects": [],
-    "title": "Organisation",
+    "title": "Internationales",
     "type_title": "Seite",
     "version": "current",
     "workflow_history": {
@@ -78,14 +61,14 @@
                 "actor": "admin",
                 "comments": "",
                 "review_state": "private",
-                "time": "2024-03-07T10:43:29+00:00"
+                "time": "2024-03-07T10:42:05+00:00"
             },
             {
                 "action": "publish",
                 "actor": "admin",
                 "comments": "",
                 "review_state": "published",
-                "time": "2024-03-08T19:00:06+00:00"
+                "time": "2024-03-08T19:00:01+00:00"
             }
         ]
     },

@@ -95,6 +95,14 @@ console: ## Start a zope console
 create-site: ## Create a new site using default distribution and default answers
 	DEVELOP_DISTRIBUTIONS=$(DISTRIBUTIONS) ALLOWED_DISTRIBUTIONS=$(DISTRIBUTIONS) PYTHONWARNINGS=ignore ./bin/zconsole run instance/etc/zope.conf scripts/create-site.py
 
+.PHONY: apply-content
+apply-content: ## Apply distribution content and override any content that might be present
+	DELETE_EXISTING=1 make create-site
+
+.PHONY: fetch-content
+fetch-content: ## Export content to filesystem
+	curl -i -X GET http://localhost:8080/Plone/@@dist_export_all --user admin:admin	
+
 .PHONY: format
 format: bin/tox ## Format the codebase according to our standards
 	@echo "$(GREEN)==> Format codebase$(RESET)"

@@ -1,152 +1,48 @@
 {
-    "@id": "/de/organisation/philosophische-fakultaet",
-    "@type": "Subsite",
-    "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+    "@id": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
+    "@type": "Image",
+    "UID": "60392dab4a7040758dc531b1b269fdcd",
     "allow_discussion": false,
-    "blocks": {
-        "52a6b3ca-45aa-4b21-8e8b-9044872115f8": {
-            "@type": "image",
-            "align": "full",
-            "credit": {},
-            "description": "",
-            "image_field": "image",
-            "image_scales": {
-                "image": [
-                    {
-                        "content-type": "image/jpeg",
-                        "download": "@@images/image-5953-79e12b6b148fe85f7d320a1d21fd8c28.jpeg",
-                        "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-                        "height": 3969,
-                        "scales": {
-                            "great": {
-                                "download": "@@images/image-1200-90ee4374ca607c635585dbb359a86417.jpeg",
-                                "height": 800,
-                                "width": 1200
-                            },
-                            "huge": {
-                                "download": "@@images/image-1600-e3e1536d7226b6007d67456ae3b010b1.jpeg",
-                                "height": 1066,
-                                "width": 1600
-                            },
-                            "icon": {
-                                "download": "@@images/image-32-563d4d0e4b0894c288c3f82c30ebcd97.jpeg",
-                                "height": 21,
-                                "width": 32
-                            },
-                            "large": {
-                                "download": "@@images/image-800-a62f96ab40d169310ed3fb542c0a3ede.jpeg",
-                                "height": 533,
-                                "width": 800
-                            },
-                            "larger": {
-                                "download": "@@images/image-1000-74289e06160e0997863ebd335b375482.jpeg",
-                                "height": 666,
-                                "width": 1000
-                            },
-                            "mini": {
-                                "download": "@@images/image-200-d6e0e5efaa02cb13b9bba748e5fbd137.jpeg",
-                                "height": 133,
-                                "width": 200
-                            },
-                            "preview": {
-                                "download": "@@images/image-400-5365906d4b775ca4685b34a39322aaf2.jpeg",
-                                "height": 266,
-                                "width": 400
-                            },
-                            "teaser": {
-                                "download": "@@images/image-600-49a268ab586236ebeaf96f8dd2626918.jpeg",
-                                "height": 400,
-                                "width": 600
-                            },
-                            "thumb": {
-                                "download": "@@images/image-128-3b4c7cf0c03d540e0c7d67231461ef01.jpeg",
-                                "height": 85,
-                                "width": 128
-                            },
-                            "tile": {
-                                "download": "@@images/image-64-4d8e8d74bc083b050f3c0f172d6f1c97.jpeg",
-                                "height": 42,
-                                "width": 64
-                            }
-                        },
-                        "size": 3248581,
-                        "width": 5953
-                    }
-                ]
-            },
-            "size": "l",
-            "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
-            "url": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg"
-        },
-        "5a88dd92-783d-443f-ae09-b921177e09d7": {
-            "@type": "title"
-        },
-        "e46bbbbb-8c2f-4a04-851e-b17f3b8db084": {
-            "@type": "slate"
-        }
-    },
-    "blocks_layout": {
-        "items": [
-            "5a88dd92-783d-443f-ae09-b921177e09d7",
-            "52a6b3ca-45aa-4b21-8e8b-9044872115f8",
-            "e46bbbbb-8c2f-4a04-851e-b17f3b8db084"
-        ]
-    },
-    "changeNote": "",
     "contributors": [],
-    "created": "2024-03-08T19:47:54+00:00",
+    "created": "2024-03-08T22:27:51+00:00",
     "creators": [
         "admin"
     ],
-    "description": "",
-    "effective": "2024-03-08T20:47:00",
+    "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
+    "effective": null,
+    "exclude_from_nav": false,
     "expires": null,
-    "head_title": null,
-    "id": "philosophische-fakultaet",
-    "is_folderish": true,
-    "layout": "view",
-    "lock": {
-        "locked": false,
-        "stealable": true
+    "id": "jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
+    "image": {
+        "blob_path": "blobs/60392dab4a7040758dc531b1b269fdcd-image/jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+        "height": 3358,
+        "size": 2305255,
+        "width": 5060
     },
-    "modified": "2024-03-08T22:35:20+00:00",
-    "nav_title": null,
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:28:07+00:00",
     "parent": {
-        "@id": "/de/organisation",
-        "@type": "Document",
-        "UID": "cd9af6eb8107428e99d1c8b45b036999",
+        "@id": "/de/organisation/fakultaet-mathematik",
+        "@type": "Subsite",
+        "UID": "f19746e11ed4487388cbf353a50b8a63",
         "description": "",
         "image_field": null,
         "image_scales": null,
         "review_state": "published",
-        "title": "Organisation",
-        "type_title": "Seite"
+        "title": "Fakult\u00e4t Mathematik",
+        "type_title": "Subsite"
     },
-    "preview_caption_link": null,
-    "review_state": "published",
+    "review_state": null,
     "rights": "",
-    "title": "Philosophische Fakult\u00e4t",
-    "type_title": "Subsite",
+    "subjects": [],
+    "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+    "type_title": "Bild",
     "version": "current",
-    "versioning_enabled": true,
-    "workflow_history": {
-        "simple_publication_workflow": [
-            {
-                "action": null,
-                "actor": "admin",
-                "comments": "",
-                "review_state": "private",
-                "time": "2024-03-08T19:47:54+00:00"
-            },
-            {
-                "action": "publish",
-                "actor": "admin",
-                "comments": "",
-                "review_state": "published",
-                "time": "2024-03-08T19:47:57+00:00"
-            }
-        ]
-    },
     "working_copy": null,
     "working_copy_of": null
 }
